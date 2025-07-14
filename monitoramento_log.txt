@@ -1,0 +1,2343 @@
+[2025-07-03 11:05:01] Monitoramento iniciado.
+[2025-07-03 11:05:09] Login realizado com sucesso.
+[2025-07-03 11:05:19] Popup TasyNative fechado.
+[2025-07-03 11:05:19] ?? Sessão ativa.
+[2025-07-03 11:05:49] Detectado retorno à tela de login.
+[2025-07-03 11:05:49] ?? Sessão finalizada ou erro detectado. Reiniciando...
+[2025-07-03 11:05:49] Screenshot salvo: C:\chromedriver-win64\erro_20250703_110549.png
+[2025-07-03 11:05:52] Navegador fechado.
+[2025-07-03 11:05:52] Aguardando 5 segundos para reinício...
+
+[2025-07-03 11:06:04] Login realizado com sucesso.
+[2025-07-03 11:06:14] Popup TasyNative fechado.
+[2025-07-03 11:06:14] ?? Sessão ativa.
+[2025-07-03 11:06:44] Detectado retorno à tela de login.
+[2025-07-03 11:06:44] ?? Sessão finalizada ou erro detectado. Reiniciando...
+[2025-07-03 11:06:44] Screenshot salvo: C:\chromedriver-win64\erro_20250703_110644.png
+[2025-07-03 11:06:46] Navegador fechado.
+[2025-07-03 11:06:46] Aguardando 5 segundos para reinício...
+
+[2025-07-03 11:07:01] Login realizado com sucesso.
+[2025-07-03 11:07:11] Popup TasyNative fechado.
+[2025-07-03 11:07:11] ?? Sessão ativa.
+[2025-07-03 11:07:41] ?? Sessão ativa.
+[2025-07-03 11:08:11] ?? Sessão ativa.
+[2025-07-03 11:08:41] Detectado retorno à tela de login.
+[2025-07-03 11:08:41] ?? Sessão finalizada ou erro detectado. Reiniciando...
+[2025-07-03 11:08:41] Screenshot salvo: C:\chromedriver-win64\erro_20250703_110841.png
+[2025-07-03 11:08:43] Navegador fechado.
+[2025-07-03 11:08:43] Aguardando 5 segundos para reinício...
+
+[2025-07-03 13:31:25] Monitoramento iniciado.
+[2025-07-03 13:31:34] Login realizado com sucesso.
+[2025-07-03 13:31:44] Popup TasyNative fechado.
+[2025-07-03 13:31:44] ?? Sessão ativa.
+[2025-07-03 13:32:14] Detectado retorno à tela de login.
+[2025-07-03 13:32:14] ?? Sessão finalizada ou erro detectado. Reiniciando...
+[2025-07-03 13:32:14] Screenshot salvo: C:\chromedriver-win64\erro_20250703_133214.png
+[2025-07-03 13:32:16] Navegador fechado.
+[2025-07-03 13:32:16] Aguardando 5 segundos para reinício...
+
+[2025-07-03 13:32:34] Login realizado com sucesso.
+[2025-07-03 13:32:44] Popup TasyNative fechado.
+[2025-07-03 13:32:44] ?? Sessão ativa.
+[2025-07-03 13:33:14] ?? Sessão ativa.
+[2025-07-03 13:33:44] Erro ao verificar sessão: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62497B632+29090]
+	(No symbol) [0x00007FF6248EE6E9]
+	(No symbol) [0x00007FF6247AB1CA]
+	(No symbol) [0x00007FF62477FAF5]
+	(No symbol) [0x00007FF62482E2E7]
+	(No symbol) [0x00007FF624845EE1]
+	(No symbol) [0x00007FF624826493]
+	(No symbol) [0x00007FF6247F09B1]
+	(No symbol) [0x00007FF6247F1B11]
+	GetHandleVerifier [0x00007FF624C9881D+3294093]
+	GetHandleVerifier [0x00007FF624CE4403+3604339]
+	GetHandleVerifier [0x00007FF624CDA2C7+3563063]
+	GetHandleVerifier [0x00007FF624A36F16+797318]
+	(No symbol) [0x00007FF6248F986F]
+	(No symbol) [0x00007FF6248F5454]
+	(No symbol) [0x00007FF6248F55E0]
+	(No symbol) [0x00007FF6248E4A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-03 13:33:44] ?? Sessão finalizada ou erro detectado. Reiniciando...
+[2025-07-03 13:33:44] Erro ao salvar screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF62497B632+29090]
+	(No symbol) [0x00007FF6248EE6E9]
+	(No symbol) [0x00007FF6247AB1CA]
+	(No symbol) [0x00007FF62477FAF5]
+	(No symbol) [0x00007FF62482E2E7]
+	(No symbol) [0x00007FF624845EE1]
+	(No symbol) [0x00007FF624826493]
+	(No symbol) [0x00007FF6247F09B1]
+	(No symbol) [0x00007FF6247F1B11]
+	GetHandleVerifier [0x00007FF624C9881D+3294093]
+	GetHandleVerifier [0x00007FF624CE4403+3604339]
+	GetHandleVerifier [0x00007FF624CDA2C7+3563063]
+	GetHandleVerifier [0x00007FF624A36F16+797318]
+	(No symbol) [0x00007FF6248F986F]
+	(No symbol) [0x00007FF6248F5454]
+	(No symbol) [0x00007FF6248F55E0]
+	(No symbol) [0x00007FF6248E4A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-03 13:33:46] Navegador fechado.
+[2025-07-03 13:33:46] Aguardando 5 segundos para reinício...
+
+[2025-07-03 13:33:59] Login realizado com sucesso.
+[2025-07-04 07:48:52] Monitoramento iniciado.
+[2025-07-04 07:49:01] Login realizado com sucesso.
+[2025-07-04 07:49:11] Popup TasyNative fechado.
+[2025-07-04 07:49:11] ?? Sessão ativa.
+[2025-07-04 07:49:42] Monitoramento iniciado.
+[2025-07-04 07:49:49] Login realizado com sucesso.
+[2025-07-04 07:49:59] Popup TasyNative fechado.
+[2025-07-04 07:49:59] ?? Sessão ativa.
+[2025-07-04 07:50:29] ?? Sessão ativa.
+[2025-07-04 07:50:59] Erro ao verificar sessão: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 07:50:59] ?? Sessão finalizada ou erro detectado. Reiniciando...
+[2025-07-04 07:50:59] Erro ao salvar screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 07:51:01] Navegador fechado.
+[2025-07-04 07:51:01] Aguardando 5 segundos para reinício...
+
+[2025-07-04 08:04:02] 🔍 Iniciando verificação do ambiente...
+[2025-07-04 08:04:02] ⚠️ Atenção: Versão Python 3.12.0 não é oficialmente testada. Use 3.10 ou 3.11 para estabilidade.
+[2025-07-04 08:04:02] ✅ Ambiente verificado com sucesso.
+[2025-07-04 08:04:02] 🚀 Iniciando monitoramento do TasyNative...
+[2025-07-04 08:04:07] Login realizado com sucesso.
+[2025-07-04 08:04:17] Popup TasyNative fechado.
+[2025-07-04 08:04:17] Não foi possível ativar tela cheia.
+[2025-07-04 08:04:17] 🟢 Sessão ativa.
+[2025-07-04 08:15:11] 🔍 Iniciando verificação do ambiente...
+[2025-07-04 08:15:11] ⚠️ Atenção: Versão Python 3.12.0 não é oficialmente testada. Use 3.10 ou 3.11 para estabilidade.
+[2025-07-04 08:15:11] ✅ Ambiente verificado com sucesso.
+[2025-07-04 08:15:11] 🚀 Iniciando monitoramento do TasyNative...
+[2025-07-04 08:15:16] Login realizado com sucesso.
+[2025-07-04 08:15:31] Popup não apareceu.
+[2025-07-04 08:15:31] Não foi possível ativar tela cheia.
+[2025-07-04 08:15:31] 🟢 Sessão ativa.
+[2025-07-04 08:18:07] 🔍 Iniciando verificação do ambiente...
+[2025-07-04 08:18:07] ⚠️ Atenção: Versão Python 3.12.0 não é oficialmente testada. Use 3.10 ou 3.11 para estabilidade.
+[2025-07-04 08:18:07] ✅ Ambiente verificado com sucesso.
+[2025-07-04 08:18:07] 🚀 Iniciando monitoramento do TasyNative...
+[2025-07-04 08:18:12] Login realizado com sucesso.
+[2025-07-04 08:19:48] 🔍 Iniciando verificação do ambiente...
+[2025-07-04 08:19:48] ⚠️ Atenção: Versão Python 3.12.0 não é oficialmente testada. Use 3.10 ou 3.11 para estabilidade.
+[2025-07-04 08:19:48] ✅ Ambiente verificado com sucesso.
+[2025-07-04 08:19:48] 🚀 Iniciando monitoramento do TasyNative...
+[2025-07-04 08:19:53] Login realizado com sucesso.
+[2025-07-04 08:20:04] Popup TasyNative fechado.
+[2025-07-04 08:20:04] Não foi possível ativar tela cheia.
+[2025-07-04 08:20:04] 🟢 Sessão ativa.
+[2025-07-04 08:20:34] Erro ao verificar sessão: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 08:20:34] ⚠️ Sessão encerrada ou erro detectado. Reiniciando...
+[2025-07-04 08:20:34] Erro ao salvar screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 08:20:36] Driver encerrado.
+[2025-07-04 08:20:36] 🔄 Aguardando 5 segundos para reinício...
+
+[2025-07-04 08:20:37] 🔍 Iniciando verificação do ambiente...
+[2025-07-04 08:20:37] ⚠️ Atenção: Versão Python 3.12.0 não é oficialmente testada. Use 3.10 ou 3.11 para estabilidade.
+[2025-07-04 08:20:37] ✅ Ambiente verificado com sucesso.
+[2025-07-04 08:20:37] 🚀 Iniciando monitoramento do TasyNative...
+[2025-07-04 08:20:41] Login realizado com sucesso.
+[2025-07-04 08:20:46] Login realizado com sucesso.
+[2025-07-04 08:20:51] Popup TasyNative fechado.
+[2025-07-04 08:20:51] Não foi possível ativar tela cheia.
+[2025-07-04 08:20:51] 🟢 Sessão ativa.
+[2025-07-04 08:20:58] Popup não apareceu.
+[2025-07-04 08:20:58] Não foi possível ativar tela cheia.
+[2025-07-04 08:20:58] Erro ao verificar sessão: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 08:20:58] ⚠️ Sessão encerrada ou erro detectado. Reiniciando...
+[2025-07-04 08:20:58] Erro ao salvar screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 08:21:00] Driver encerrado.
+[2025-07-04 08:21:00] 🔄 Aguardando 5 segundos para reinício...
+
+[2025-07-04 08:21:21] Erro ao verificar sessão: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 08:21:21] ⚠️ Sessão encerrada ou erro detectado. Reiniciando...
+[2025-07-04 08:21:21] Erro ao salvar screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75062B632+29090]
+	(No symbol) [0x00007FF75059E6E9]
+	(No symbol) [0x00007FF75045B1CA]
+	(No symbol) [0x00007FF75042FAF5]
+	(No symbol) [0x00007FF7504DE2E7]
+	(No symbol) [0x00007FF7504F5EE1]
+	(No symbol) [0x00007FF7504D6493]
+	(No symbol) [0x00007FF7504A09B1]
+	(No symbol) [0x00007FF7504A1B11]
+	GetHandleVerifier [0x00007FF75094881D+3294093]
+	GetHandleVerifier [0x00007FF750994403+3604339]
+	GetHandleVerifier [0x00007FF75098A2C7+3563063]
+	GetHandleVerifier [0x00007FF7506E6F16+797318]
+	(No symbol) [0x00007FF7505A986F]
+	(No symbol) [0x00007FF7505A5454]
+	(No symbol) [0x00007FF7505A55E0]
+	(No symbol) [0x00007FF750594A7F]
+	BaseThreadInitThunk [0x00007FF8DBBFDBE7+23]
+	RtlUserThreadStart [0x00007FF8DCD1FBEC+44]
+
+[2025-07-04 08:21:23] Driver encerrado.
+[2025-07-04 08:21:23] 🔄 Aguardando 5 segundos para reinício...
+
+[2025-07-04 14:29:27] Abrindo TasyNative...
+[2025-07-04 14:29:27] Monitoramento iniciado.
+[2025-07-04 14:29:28] Erro na automação: (-2147221008, 'CoInitialize não foi chamado.', None, None)
+[2025-07-04 14:30:09] Abrindo TasyNative...
+[2025-07-04 14:30:09] Monitoramento iniciado.
+[2025-07-04 14:30:09] Erro na automação: (-2147221008, 'CoInitialize não foi chamado.', None, None)
+[2025-07-04 14:30:16] Monitoramento interrompido pelo usuário.
+[2025-07-04 14:30:52] Abrindo TasyNative...
+
+[2025-07-04 14:30:52] Erro na automação: (-2147221008, 'CoInitialize não foi chamado.', None, None)
+[2025-07-04 14:30:54] Monitoramento interrompido pelo usuário.
+[2025-07-04 14:31:20] Abrindo TasyNative...
+
+[2025-07-04 14:31:25] Conectando ao Chrome via porta 9222...
+[2025-07-04 14:31:25] Erro na automação: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+[2025-07-04 14:33:09] Abrindo TasyNative...
+[2025-07-04 14:33:09] Monitoramento iniciado.
+[2025-07-04 14:33:14] Conectando ao Chrome via porta 9222...
+[2025-07-04 14:33:15] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-04 14:33:20] Login realizado com sucesso.
+[2025-07-04 14:33:30] Popup fechado.
+[2025-07-04 14:33:30] 🟢 Sessão ativa.
+[2025-07-04 14:34:01] ⚠️ Sessão deslogada.
+[2025-07-04 14:34:01] Aguardando 10 segundos para reinício...
+[2025-07-04 14:34:13] Abrindo TasyNative...
+[2025-07-04 14:34:18] Conectando ao Chrome via porta 9222...
+[2025-07-04 14:34:20] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-04 14:34:24] Login realizado com sucesso.
+[2025-07-04 14:34:39] Popup não encontrado.
+[2025-07-04 14:34:39] ⚠️ Sessão deslogada.
+[2025-07-04 14:34:39] Aguardando 10 segundos para reinício...
+[2025-07-04 14:34:52] Abrindo TasyNative...
+[2025-07-04 14:34:57] Conectando ao Chrome via porta 9222...
+[2025-07-04 14:35:00] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-04 14:35:20] Erro na automação: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF67622B632+29090]
+	(No symbol) [0x00007FF67619E6E9]
+	(No symbol) [0x00007FF67605B1CA]
+	(No symbol) [0x00007FF6760AEFD7]
+	(No symbol) [0x00007FF6760AF22C]
+	(No symbol) [0x00007FF6760F97F7]
+	(No symbol) [0x00007FF6760D672F]
+	(No symbol) [0x00007FF6760F65D9]
+	(No symbol) [0x00007FF6760D6493]
+	(No symbol) [0x00007FF6760A09B1]
+	(No symbol) [0x00007FF6760A1B11]
+	GetHandleVerifier [0x00007FF67654881D+3294093]
+	GetHandleVerifier [0x00007FF676594403+3604339]
+	GetHandleVerifier [0x00007FF67658A2C7+3563063]
+	GetHandleVerifier [0x00007FF6762E6F16+797318]
+	(No symbol) [0x00007FF6761A986F]
+	(No symbol) [0x00007FF6761A5454]
+	(No symbol) [0x00007FF6761A55E0]
+	(No symbol) [0x00007FF676194A7F]
+	BaseThreadInitThunk [0x00007FF9CF0CDBE7+23]
+	RtlUserThreadStart [0x00007FF9D105FBEC+44]
+
+[2025-07-04 15:52:36] Monitoramento iniciado.
+[2025-07-04 15:52:38] Abrindo TasyNative...
+[2025-07-04 15:52:43] Conectando ao Chrome via porta 9222...
+[2025-07-04 15:52:45] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-04 15:52:49] Login realizado com sucesso.
+[2025-07-04 15:52:54] Popup fechado.
+[2025-07-04 15:52:54] 🟢 Sessão ativa.
+[2025-07-04 15:53:13] Monitoramento interrompido pelo usuário.
+[2025-07-04 16:09:18] Monitoramento iniciado.
+[2025-07-04 16:09:20] Abrindo TasyNative...
+[2025-07-04 16:09:25] Conectando ao Chrome via porta 9222...
+[2025-07-04 16:09:26] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-04 16:09:31] Login realizado com sucesso.
+[2025-07-04 16:09:36] Popup fechado.
+[2025-07-04 16:09:36] 🟢 Sessão ativa.
+[2025-07-04 16:23:40] Monitoramento iniciado.
+[2025-07-04 16:23:42] Abrindo TasyNative...
+[2025-07-04 16:23:47] Conectando ao Chrome via porta 9222...
+[2025-07-04 16:23:48] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-04 16:23:53] Login realizado com sucesso.
+[2025-07-04 16:23:58] Popup fechado.
+[2025-07-04 16:23:58] 🟢 Sessão ativa.
+[2025-07-07 09:53:19] Monitoramento iniciado.
+[2025-07-07 09:53:21] Abrindo TasyNative...
+[2025-07-07 09:53:29] Conectando ao Chrome via porta 9222...
+[2025-07-07 09:53:31] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 09:53:35] Login realizado com sucesso.
+[2025-07-07 09:53:40] Popup fechado.
+[2025-07-07 09:53:40] 🟢 Sessão ativa.
+[2025-07-07 09:54:11] ⚠️ Sessão deslogada.
+[2025-07-07 09:54:11] Aguardando 10 segundos para reinício...
+[2025-07-07 09:54:23] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 09:54:33] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 09:54:43] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 09:54:53] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 09:55:03] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 09:55:13] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:03:53] Monitoramento iniciado.
+[2025-07-07 10:03:55] Abrindo TasyNative...
+[2025-07-07 10:04:00] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:04:01] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:04:06] Login realizado com sucesso.
+[2025-07-07 10:04:11] ⚠️ Login falhou ou expirou imediatamente.
+[2025-07-07 10:04:11] Erro na automação: Login não sustentado
+[2025-07-07 10:04:23] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:04:38] Monitoramento iniciado.
+[2025-07-07 10:04:40] Abrindo TasyNative...
+[2025-07-07 10:04:45] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:04:46] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:04:51] Login realizado com sucesso.
+[2025-07-07 10:04:56] Popup fechado.
+[2025-07-07 10:04:56] 🟢 Sessão ativa.
+[2025-07-07 10:05:26] ⚠️ Sessão deslogada.
+[2025-07-07 10:05:26] Aguardando 10 segundos para reinício...
+[2025-07-07 10:05:38] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:09:05] Monitoramento iniciado.
+[2025-07-07 10:09:07] Abrindo TasyNative...
+[2025-07-07 10:09:12] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:09:14] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:09:18] Login realizado com sucesso.
+[2025-07-07 10:09:23] Popup fechado.
+[2025-07-07 10:09:23] 🟢 Sessão ativa.
+[2025-07-07 10:09:54] ⚠️ Sessão deslogada.
+[2025-07-07 10:09:54] Aguardando 10 segundos para reinício...
+[2025-07-07 10:10:07] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:11:34] Monitoramento iniciado.
+[2025-07-07 10:11:36] Abrindo TasyNative...
+[2025-07-07 10:11:41] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:11:42] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:11:47] Login realizado com sucesso.
+[2025-07-07 10:11:52] Popup fechado.
+[2025-07-07 10:11:52] 🟢 Sessão ativa.
+[2025-07-07 10:12:22] ⚠️ Sessão deslogada.
+[2025-07-07 10:12:22] Aguardando 10 segundos para reinício...
+[2025-07-07 10:12:35] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:12:45] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:12:55] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:13:15] Monitoramento iniciado.
+[2025-07-07 10:13:17] Abrindo TasyNative...
+[2025-07-07 10:13:22] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:13:23] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:13:28] Login realizado com sucesso.
+[2025-07-07 10:13:33] Popup fechado.
+[2025-07-07 10:13:33] 🟢 Sessão ativa.
+[2025-07-07 10:14:03] ⚠️ Sessão deslogada.
+[2025-07-07 10:14:03] Aguardando 10 segundos para reinício...
+[2025-07-07 10:14:17] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:15:11] Monitoramento iniciado.
+[2025-07-07 10:15:13] Abrindo TasyNative...
+[2025-07-07 10:15:18] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:15:20] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:15:25] Login realizado com sucesso.
+[2025-07-07 10:15:30] Popup fechado.
+[2025-07-07 10:15:30] 🟢 Sessão ativa.
+[2025-07-07 10:16:00] 🟢 Sessão ativa.
+[2025-07-07 10:16:30] ⚠️ Sessão deslogada.
+[2025-07-07 10:16:30] Aguardando 10 segundos para reinício...
+[2025-07-07 10:16:43] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:16:53] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:17:03] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:17:15] Monitoramento iniciado.
+[2025-07-07 10:17:17] Abrindo TasyNative...
+[2025-07-07 10:17:22] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:17:23] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:17:28] Login realizado com sucesso.
+[2025-07-07 10:17:33] Popup fechado.
+[2025-07-07 10:17:33] 🟢 Sessão ativa.
+[2025-07-07 10:17:58] Monitoramento interrompido pelo usuário.
+[2025-07-07 10:18:01] Monitoramento iniciado.
+[2025-07-07 10:18:01] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:18:07] Monitoramento interrompido pelo usuário.
+[2025-07-07 10:18:20] Erro ao verificar sessão: HTTPConnectionPool(host='localhost', port=10874): Max retries exceeded with url: /session/0627c1356c19073b0cf7e3f0ff742880/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000294BB46F2F0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+[2025-07-07 10:18:24] Aguardando 10 segundos para reinício...
+[2025-07-07 10:18:24] Monitoramento iniciado.
+[2025-07-07 10:18:24] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:20:27] Monitoramento iniciado.
+[2025-07-07 10:20:29] Abrindo TasyNative...
+[2025-07-07 10:20:34] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:20:35] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:20:40] Login realizado com sucesso.
+[2025-07-07 10:20:45] Popup fechado.
+[2025-07-07 10:20:45] 🟢 Sessão ativa.
+[2025-07-07 10:21:16] ⚠️ Sessão deslogada.
+[2025-07-07 10:21:16] Aguardando 10 segundos para reinício...
+[2025-07-07 10:21:29] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:22:40] Monitoramento iniciado.
+[2025-07-07 10:22:42] Abrindo TasyNative...
+[2025-07-07 10:22:47] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:22:48] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:22:53] Login realizado com sucesso.
+[2025-07-07 10:22:58] Popup fechado.
+[2025-07-07 10:22:58] 🟢 Sessão ativa.
+[2025-07-07 10:23:28] ⚠️ Sessão deslogada.
+[2025-07-07 10:23:28] Aguardando 10 segundos para reinício...
+[2025-07-07 10:23:42] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:23:52] ⚠️ Porta 9222 ocupada. Aguardando liberação...
+[2025-07-07 10:31:15] Abrindo TasyNative...
+[2025-07-07 10:31:15] Monitoramento iniciado.
+[2025-07-07 10:31:20] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:31:22] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:31:26] Login realizado com sucesso.
+[2025-07-07 10:31:31] Popup fechado.
+[2025-07-07 10:31:31] 🟢 Sessão ativa.
+[2025-07-07 10:32:02] ⚠️ Sessão deslogada.
+[2025-07-07 10:32:02] Aguardando 10 segundos para reinício...
+[2025-07-07 10:32:16] ⚠️ Porta 9222 ocupada. Aguardando liberação... (0s)
+[2025-07-07 10:32:19] Encerrando processo na porta 9222: TasyNative.exe (PID 20356)
+[2025-07-07 10:32:24] Abrindo TasyNative...
+[2025-07-07 10:32:29] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:32:30] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:32:35] Login realizado com sucesso.
+[2025-07-07 10:32:40] ⚠️ Login falhou ou expirou imediatamente.
+[2025-07-07 10:32:40] Erro na automação: Login não sustentado
+[2025-07-07 10:32:54] ⚠️ Porta 9222 ocupada. Aguardando liberação... (0s)
+[2025-07-07 10:32:55] Encerrando processo na porta 9222: TasyNative.exe (PID 3108)
+[2025-07-07 10:32:56] Erro ao encerrar porta 9222: process no longer exists (pid=13184, name='TasyNative.exe')
+[2025-07-07 10:32:56] Erro ao encerrar porta 9222: process no longer exists (pid=21852, name='TasyNative.exe')
+[2025-07-07 10:33:01] Abrindo TasyNative...
+[2025-07-07 10:33:06] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:33:07] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:33:12] Login realizado com sucesso.
+[2025-07-07 10:33:17] Popup fechado.
+[2025-07-07 10:33:17] 🟢 Sessão ativa.
+[2025-07-07 10:33:47] ⚠️ Sessão deslogada.
+[2025-07-07 10:33:47] Aguardando 10 segundos para reinício...
+[2025-07-07 10:34:01] ⚠️ Porta 9222 ocupada. Aguardando liberação... (0s)
+[2025-07-07 10:34:03] Encerrando processo na porta 9222: TasyNative.exe (PID 7088)
+[2025-07-07 10:34:03] Erro ao encerrar porta 9222: process no longer exists (pid=13184, name='TasyNative.exe')
+[2025-07-07 10:34:03] Erro ao encerrar porta 9222: process no longer exists (pid=19380, name='TasyNative.exe')
+[2025-07-07 10:34:03] Erro ao encerrar porta 9222: process no longer exists (pid=21188, name='TasyNative.exe')
+[2025-07-07 10:34:08] Abrindo TasyNative...
+[2025-07-07 10:34:13] Conectando ao Chrome via porta 9222...
+[2025-07-07 10:34:14] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-07 10:34:19] Login realizado com sucesso.
+[2025-07-07 10:34:24] Popup fechado.
+[2025-07-07 10:34:24] 🟢 Sessão ativa.
+[2025-07-08 08:34:29] Abrindo TasyNative...
+[2025-07-08 08:34:29] Monitoramento iniciado.
+[2025-07-08 08:34:34] Conectando ao Chrome via porta 9222...
+[2025-07-08 08:34:36] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 08:34:41] Login realizado com sucesso.
+[2025-07-08 08:34:46] ⚠️ Login falhou ou expirou imediatamente.
+[2025-07-08 08:34:46] Erro na automação: Login não sustentado
+[2025-07-08 08:35:00] ⚠️ Porta 9222 ocupada. Aguardando liberação... (0s)
+[2025-07-08 08:35:02] Encerrando processo na porta 9222: TasyNative.exe (PID 18184)
+[2025-07-08 08:35:07] Abrindo TasyNative...
+[2025-07-08 08:35:12] Conectando ao Chrome via porta 9222...
+[2025-07-08 08:35:14] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 08:35:19] Login realizado com sucesso.
+[2025-07-08 08:35:24] ⚠️ Login falhou ou expirou imediatamente.
+[2025-07-08 08:35:24] Erro na automação: Login não sustentado
+[2025-07-08 08:35:37] ⚠️ Porta 9222 ocupada. Aguardando liberação... (0s)
+[2025-07-08 08:35:40] Encerrando processo na porta 9222: TasyNative.exe (PID 23432)
+[2025-07-08 08:35:45] Abrindo TasyNative...
+[2025-07-08 08:35:50] Conectando ao Chrome via porta 9222...
+[2025-07-08 08:35:52] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 08:35:56] Login realizado com sucesso.
+[2025-07-08 08:36:01] Popup fechado.
+[2025-07-08 08:36:02] 🟢 Sessão ativa.
+[2025-07-08 08:36:10] Monitoramento interrompido pelo usuário.
+[2025-07-08 08:48:56] Monitoramento interrompido pelo usuário.
+[2025-07-08 08:52:27] Monitoramento iniciado.
+[2025-07-08 08:52:32] Conectando ao Chrome via porta 9222...
+[2025-07-08 08:52:33] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 08:52:38] Login realizado com sucesso.
+[2025-07-08 08:52:43] ⚠️ Login falhou ou expirou imediatamente.
+[2025-07-08 08:52:43] Erro na automação: Login não sustentado
+[2025-07-08 11:16:03] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 11:16:03] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 11:16:06] Monitoramento iniciado.
+[2025-07-08 11:16:06] Verificando e liberando porta de depuração...
+[2025-07-08 11:16:06] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:16:10] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:16:10] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:16:20] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:16:20] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:16:20] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:16:20] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:16:20] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:16:22] Erro ao inicializar o driver do Selenium com ChromeDriver empacotado: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 128.0.6613.162; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6c9196f95+76917]
+	GetHandleVerifier [0x0x7ff6c9196ff0+77008]
+	(No symbol) [0x0x7ff6c8f49dea]
+	(No symbol) [0x0x7ff6c8f8e1df]
+	(No symbol) [0x0x7ff6c8f8d22b]
+	(No symbol) [0x0x7ff6c8f81d99]
+	(No symbol) [0x0x7ff6c8fd5e9e]
+	(No symbol) [0x0x7ff6c8fd5630]
+	(No symbol) [0x0x7ff6c8fc8243]
+	(No symbol) [0x0x7ff6c8f91431]
+	(No symbol) [0x0x7ff6c8f921c3]
+	GetHandleVerifier [0x0x7ff6c946d2cd+3051437]
+	GetHandleVerifier [0x0x7ff6c9467923+3028483]
+	GetHandleVerifier [0x0x7ff6c94858bd+3151261]
+	GetHandleVerifier [0x0x7ff6c91b185e+185662]
+	GetHandleVerifier [0x0x7ff6c91b971f+218111]
+	GetHandleVerifier [0x0x7ff6c919fb14+112628]
+	GetHandleVerifier [0x0x7ff6c919fcc9+113065]
+	GetHandleVerifier [0x0x7ff6c9186c98+10616]
+	BaseThreadInitThunk [0x0x7ff9cf0cdbe7+23]
+	RtlUserThreadStart [0x0x7ff9d105fbec+44]
+. Verifique a compatibilidade entre o Chrome e o ChromeDriver, e se o Chrome foi iniciado pelo Tasy Native.
+[2025-07-08 11:16:22] Erro crítico na automação: Falha ao configurar ChromeDriver empacotado.. Tentando reiniciar...
+[2025-07-08 11:16:22] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:16:23] Encerrando processo 'TasyNative.exe' (PID 13364) escutando na porta 9222
+[2025-07-08 11:16:39] Verificando e liberando porta de depuração...
+[2025-07-08 11:16:39] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:16:42] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:16:42] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:16:45] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 11:17:51] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 11:17:51] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 11:17:53] Monitoramento iniciado.
+[2025-07-08 11:17:53] Verificando e liberando porta de depuração...
+[2025-07-08 11:17:53] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:17:57] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:17:57] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:18:07] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:18:07] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:18:07] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:18:07] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:18:07] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:18:08] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:18:19] Login realizado com sucesso.
+[2025-07-08 11:18:24] ⚠️ Login falhou ou expirou imediatamente após o envio das credenciais.
+[2025-07-08 11:18:24] Erro crítico na automação: Login não sustentado. Tentando reiniciar...
+[2025-07-08 11:18:26] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:18:27] Encerrando processo 'TasyNative.exe' (PID 10572) escutando na porta 9222
+[2025-07-08 11:18:29] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 11:31:06] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 11:31:06] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 11:31:14] Monitoramento iniciado.
+orta de depuração...
+[2025-07-08 11:31:14] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:31:18] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:31:18] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:31:28] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:31:28] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:31:28] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:31:28] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:31:28] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:31:29] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:31:34] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:31:36] Página pós-login carregada (campo de login invisível).
+[2025-07-08 11:31:38] Popup de boas-vindas/informativo fechado.
+[2025-07-08 11:31:38] ⚠️ Erro detectado na tela com a palavra-chave: 'comunicação'.
+[2025-07-08 11:31:38] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 11:31:38] Verificando e liberando porta de depuração...
+[2025-07-08 11:31:38] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:31:40] Encerrando processo 'TasyNative.exe' (PID 22588) escutando na porta 9222
+[2025-07-08 11:31:42] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:31:42] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:31:52] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:31:52] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:31:52] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:31:52] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:31:52] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:31:53] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:31:58] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:32:00] Página pós-login carregada (campo de login invisível).
+[2025-07-08 11:32:02] Popup de boas-vindas/informativo fechado.
+[2025-07-08 11:32:02] ⚠️ Erro detectado na tela com a palavra-chave: 'comunicação'.
+[2025-07-08 11:32:02] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 11:32:02] Verificando e liberando porta de depuração...
+[2025-07-08 11:32:02] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:32:06] Encerrando processo 'TasyNative.exe' (PID 10764) escutando na porta 9222
+[2025-07-08 11:32:08] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:32:08] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:32:18] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:32:18] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:32:18] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:32:18] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:32:18] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:32:20] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:32:24] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:32:25] ⚠️ O campo de login ainda está visível após 15 segundos. Login pode ter falhado ou a página não carregou corretamente: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FAF5B632+29090]
+	(No symbol) [0x00007FF7FAECE6E9]
+	(No symbol) [0x00007FF7FAD8B1CA]
+	(No symbol) [0x00007FF7FAD5FAF5]
+	(No symbol) [0x00007FF7FAE0E2E7]
+	(No symbol) [0x00007FF7FAE25EE1]
+	(No symbol) [0x00007FF7FAE06493]
+	(No symbol) [0x00007FF7FADD09B1]
+	(No symbol) [0x00007FF7FADD1B11]
+	GetHandleVerifier [0x00007FF7FB27881D+3294093]
+	GetHandleVerifier [0x00007FF7FB2C4403+3604339]
+	GetHandleVerifier [0x00007FF7FB2BA2C7+3563063]
+	GetHandleVerifier [0x00007FF7FB016F16+797318]
+	(No symbol) [0x00007FF7FAED986F]
+	(No symbol) [0x00007FF7FAED5454]
+	(No symbol) [0x00007FF7FAED55E0]
+	(No symbol) [0x00007FF7FAEC4A7F]
+	BaseThreadInitThunk [0x00007FF9CF0CDBE7+23]
+	RtlUserThreadStart [0x00007FF9D105FBEC+44]
+
+[2025-07-08 11:32:26] Erro durante o processo de login inicial ou elementos não encontrados: Login não sustentado ou página pós-login não carregada.
+[2025-07-08 11:32:26] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-08 11:32:26] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 11:40:27] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 11:40:27] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 11:40:29] Verificando e liberando porta de depuração...
+[2025-07-08 11:40:29] Monitoramento iniciado.
+[2025-07-08 11:40:29] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:40:33] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:40:33] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:40:43] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:40:43] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:40:43] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:40:43] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:40:43] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:40:44] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:40:49] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:40:49] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 11:40:49] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 11:40:52] Popup de boas-vindas/informativo fechado.
+[2025-07-08 11:40:52] ⚠️ Erro detectado na tela com a palavra-chave: 'comunicação'.
+[2025-07-08 11:40:52] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 11:40:52] Verificando e liberando porta de depuração...
+[2025-07-08 11:40:52] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:40:54] Encerrando processo 'TasyNative.exe' (PID 17084) escutando na porta 9222
+[2025-07-08 11:40:56] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:40:56] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:41:06] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:41:06] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:41:06] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:41:06] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:41:06] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:41:08] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:41:19] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:41:19] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 11:41:19] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 11:41:22] Popup de boas-vindas/informativo fechado.
+[2025-07-08 11:41:23] ⚠️ Erro detectado na tela com a palavra-chave: 'comunicação'.
+[2025-07-08 11:41:23] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 11:41:23] Verificando e liberando porta de depuração...
+[2025-07-08 11:41:23] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:41:26] Encerrando processo 'TasyNative.exe' (PID 17868) escutando na porta 9222
+[2025-07-08 11:41:28] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 11:41:29] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:41:29] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:41:39] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:41:39] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:41:39] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:41:39] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:41:39] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:42:29] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 11:42:29] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 11:42:32] Verificando e liberando porta de depuração...
+[2025-07-08 11:42:32] Monitoramento iniciado.
+[2025-07-08 11:42:32] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:42:35] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:42:35] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:42:45] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:42:45] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:42:45] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:42:45] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:42:45] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:42:47] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:42:52] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:42:52] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 11:42:52] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 11:42:57] Popup não encontrado ou já fechado.
+[2025-07-08 11:42:57] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-08 11:42:57] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 11:42:57] Verificando e liberando porta de depuração...
+[2025-07-08 11:42:57] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:42:58] Encerrando processo 'TasyNative.exe' (PID 11116) escutando na porta 9222
+[2025-07-08 11:43:00] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:43:00] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:43:10] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:43:10] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:43:10] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:43:10] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:43:10] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:43:12] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:43:17] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:43:17] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 11:43:17] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 11:43:21] Popup de boas-vindas/informativo fechado.
+[2025-07-08 11:43:21] 🟢 Sessão ativa.
+[2025-07-08 11:43:52] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-08 11:43:52] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 11:43:52] Verificando e liberando porta de depuração...
+[2025-07-08 11:43:52] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:43:55] Encerrando processo 'TasyNative.exe' (PID 23988) escutando na porta 9222
+[2025-07-08 11:43:57] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:43:57] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:44:07] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:44:07] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:44:07] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:44:07] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:44:07] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:44:08] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:44:14] Erro durante o processo de login inicial ou elementos não encontrados: Message: element click intercepted: Element <input class="btn-green w-login-button w-login-button--green" value="Entrar" type="submit"> is not clickable at point (960, 661). Other element would receive the click: <div class="ngdialog-overlay"></div>
+  (Session info: chrome=128.0.6613.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FAF5B632+29090]
+	(No symbol) [0x00007FF7FAECE6E9]
+	(No symbol) [0x00007FF7FAD8B1CA]
+	(No symbol) [0x00007FF7FADE6C0E]
+	(No symbol) [0x00007FF7FADE4682]
+	(No symbol) [0x00007FF7FADE1B9B]
+	(No symbol) [0x00007FF7FADE0DB5]
+	(No symbol) [0x00007FF7FADD2D61]
+	(No symbol) [0x00007FF7FAE066EA]
+	(No symbol) [0x00007FF7FADD26A6]
+	(No symbol) [0x00007FF7FAE06900]
+	(No symbol) [0x00007FF7FAE265D9]
+	(No symbol) [0x00007FF7FAE06493]
+	(No symbol) [0x00007FF7FADD09B1]
+	(No symbol) [0x00007FF7FADD1B11]
+	GetHandleVerifier [0x00007FF7FB27881D+3294093]
+	GetHandleVerifier [0x00007FF7FB2C4403+3604339]
+	GetHandleVerifier [0x00007FF7FB2BA2C7+3563063]
+	GetHandleVerifier [0x00007FF7FB016F16+797318]
+	(No symbol) [0x00007FF7FAED986F]
+	(No symbol) [0x00007FF7FAED5454]
+	(No symbol) [0x00007FF7FAED55E0]
+	(No symbol) [0x00007FF7FAEC4A7F]
+	BaseThreadInitThunk [0x00007FF9CF0CDBE7+23]
+	RtlUserThreadStart [0x00007FF9D105FBEC+44]
+
+[2025-07-08 11:44:14] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-08 11:44:16] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:44:18] Encerrando processo 'TasyNative.exe' (PID 22656) escutando na porta 9222
+[2025-07-08 11:44:33] Verificando e liberando porta de depuração...
+[2025-07-08 11:44:33] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 11:44:36] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 11:44:36] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 11:44:46] Conectando ao Chrome via porta de depuração...
+[2025-07-08 11:44:46] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 11:44:46] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 11:44:46] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 11:44:46] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 11:44:48] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 11:44:53] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 11:44:53] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 11:44:53] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 11:44:58] Popup de boas-vindas/informativo fechado.
+[2025-07-08 11:44:58] 🟢 Sessão ativa.
+[2025-07-08 11:45:05] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 11:45:28] Monitoramento encerrado.
+[2025-07-08 11:45:30] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:18:48] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 13:18:48] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:19:03] Monitoramento iniciado.
+orta de depuração...
+[2025-07-08 13:19:03] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:19:07] Abrindo TasyNative...
+[2025-07-08 13:19:07] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:19:07] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 13:19:17] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:19:17] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:19:17] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:19:17] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:19:17] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:19:19] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:19:36] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 13:21:04] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 13:21:04] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:22:09] Arquivo de configuração 'config.ini' não encontrado. Usando valores padrão.
+[2025-07-08 13:22:09] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:22:13] Configurações salvas em config.ini
+[2025-07-08 13:22:13] Configurações atualizadas e salvas.
+[2025-07-08 13:22:14] Verificando e liberando porta de depuração...
+[2025-07-08 13:22:14] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:22:18] Abrindo TasyNative...
+[2025-07-08 13:22:18] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:22:18] Atalho do Tasy Native aberto com sucesso.
+[2025-07-08 13:22:28] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:22:28] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:22:28] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:22:28] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:22:28] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:22:29] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:22:34] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:22:34] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:22:34] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:22:39] Popup de boas-vindas/informativo fechado.
+[2025-07-08 13:22:39] 🟢 Sessão ativa.
+[2025-07-08 13:22:47] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 13:30:40] Configurações carregadas de config.ini
+[2025-07-08 13:30:40] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:30:41] Verificando e liberando porta de depuração...
+[2025-07-08 13:30:41] Monitoramento iniciado.
+[2025-07-08 13:30:41] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:30:45] Abrindo TasyNative...
+[2025-07-08 13:30:45] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:30:45] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:30:55] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:30:55] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:30:55] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:30:55] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:30:55] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:30:57] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:31:01] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:31:01] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:31:01] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:31:06] Popup não encontrado ou já fechado.
+[2025-07-08 13:31:06] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-08 13:31:07] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 13:31:07] Verificando e liberando porta de depuração...
+[2025-07-08 13:31:07] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:31:08] Encerrando processo 'TasyNative.exe' (PID 24120) escutando na porta 9222
+[2025-07-08 13:31:10] Abrindo TasyNative...
+[2025-07-08 13:31:10] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:31:11] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:31:21] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:31:21] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:31:21] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:31:21] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:31:21] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:31:22] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:31:27] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:31:27] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:31:27] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:31:32] Popup não encontrado ou já fechado.
+[2025-07-08 13:31:32] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-08 13:31:32] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-08 13:31:32] Verificando e liberando porta de depuração...
+[2025-07-08 13:31:32] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:31:36] Encerrando processo 'TasyNative.exe' (PID 22928) escutando na porta 9222
+[2025-07-08 13:31:37] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 13:31:38] Abrindo TasyNative...
+[2025-07-08 13:32:53] Configurações carregadas de config.ini
+[2025-07-08 13:32:53] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:32:54] Verificando e liberando porta de depuração...
+[2025-07-08 13:32:54] Monitoramento iniciado.
+[2025-07-08 13:32:54] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:32:58] Abrindo TasyNative...
+[2025-07-08 13:32:58] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:32:58] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:33:08] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:33:08] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:33:08] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:33:08] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:33:08] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:33:10] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:33:15] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:33:15] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:33:15] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:33:20] Popup não encontrado ou já fechado.
+[2025-07-08 13:33:20] Aguardando 10 segundos antes de verificar erros na sessão...
+[2025-07-08 13:33:30] 🟢 Sessão ativa.
+[2025-07-08 13:34:36] Configurações carregadas de config.ini
+[2025-07-08 13:34:36] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:34:38] Verificando e liberando porta de depuração...
+[2025-07-08 13:34:38] Monitoramento iniciado.
+[2025-07-08 13:34:38] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:34:42] Abrindo TasyNative...
+[2025-07-08 13:34:42] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:34:42] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:34:52] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:34:52] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:34:52] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:34:52] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:34:52] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:34:53] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:34:58] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:34:58] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:34:58] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:34:58] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 13:35:08] Popup de boas-vindas/informativo fechado.
+[2025-07-08 13:35:08] 🟢 Sessão ativa.
+[2025-07-08 13:35:20] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 13:39:27] Configurações carregadas de config.ini
+[2025-07-08 13:39:27] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:39:36] Configurações salvas em config.ini
+[2025-07-08 13:39:36] Configurações atualizadas e salvas.
+[2025-07-08 13:39:37] Monitoramento iniciado.
+[2025-07-08 13:39:37] Verificando e liberando porta de depuração...
+[2025-07-08 13:39:37] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:39:41] Abrindo TasyNative...
+[2025-07-08 13:39:41] Caminhos de atalho a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 13:39:41] Verificando atalho em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:39:41] Tentando abrir atalho: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:39:41] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:47:10] Configurações carregadas de config.ini
+[2025-07-08 13:47:10] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:47:35] Configurações salvas em config.ini
+[2025-07-08 13:47:35] Configurações atualizadas e salvas.
+[2025-07-08 13:47:38] Configurações salvas em config.ini
+[2025-07-08 13:47:38] Configurações atualizadas e salvas.
+[2025-07-08 13:47:39] Verificando e liberando porta de depuração...
+[2025-07-08 13:47:39] Monitoramento iniciado.
+[2025-07-08 13:47:39] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:47:43] Abrindo TasyNative...
+[2025-07-08 13:47:43] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 13:47:43] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:47:43] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 13:47:43] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:47:53] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:47:53] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:47:53] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:47:53] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:47:53] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:47:54] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:47:59] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:47:59] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:47:59] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:47:59] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 13:48:09] Popup de boas-vindas/informativo fechado.
+[2025-07-08 13:48:09] 🟢 Sessão ativa.
+[2025-07-08 13:48:15] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 13:52:59] Configurações carregadas de config.ini
+[2025-07-08 13:52:59] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 13:53:00] Verificando e liberando porta de depuração...
+[2025-07-08 13:53:00] Monitoramento iniciado.
+[2025-07-08 13:53:00] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:53:04] Abrindo TasyNative...
+[2025-07-08 13:53:04] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 13:53:04] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:53:04] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 13:53:04] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:53:14] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:53:14] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:53:14] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:53:14] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:53:14] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:53:16] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:53:36] Erro durante o processo de login inicial ou elementos não encontrados: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FAF5B632+29090]
+	(No symbol) [0x00007FF7FAECE6E9]
+	(No symbol) [0x00007FF7FAD8B1CA]
+	(No symbol) [0x00007FF7FADDEFD7]
+	(No symbol) [0x00007FF7FADDF22C]
+	(No symbol) [0x00007FF7FAE297F7]
+	(No symbol) [0x00007FF7FAE0672F]
+	(No symbol) [0x00007FF7FAE265D9]
+	(No symbol) [0x00007FF7FAE06493]
+	(No symbol) [0x00007FF7FADD09B1]
+	(No symbol) [0x00007FF7FADD1B11]
+	GetHandleVerifier [0x00007FF7FB27881D+3294093]
+	GetHandleVerifier [0x00007FF7FB2C4403+3604339]
+	GetHandleVerifier [0x00007FF7FB2BA2C7+3563063]
+	GetHandleVerifier [0x00007FF7FB016F16+797318]
+	(No symbol) [0x00007FF7FAED986F]
+	(No symbol) [0x00007FF7FAED5454]
+	(No symbol) [0x00007FF7FAED55E0]
+	(No symbol) [0x00007FF7FAEC4A7F]
+	BaseThreadInitThunk [0x00007FF9CF0CDBE7+23]
+	RtlUserThreadStart [0x00007FF9D105FBEC+44]
+
+[2025-07-08 13:53:36] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-08 13:53:38] Driver do Selenium fechado após erro.
+[2025-07-08 13:53:38] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:53:40] Encerrando processo 'TasyNative.exe' (PID 25028) escutando na porta 9222
+[2025-07-08 13:53:40] Processos do Chrome e depurador encerrados após erro.
+[2025-07-08 13:53:55] Verificando e liberando porta de depuração...
+[2025-07-08 13:53:55] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 13:53:58] Abrindo TasyNative...
+[2025-07-08 13:53:58] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 13:53:58] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 13:53:58] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 13:53:58] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 13:54:08] Conectando ao Chrome via porta de depuração...
+[2025-07-08 13:54:08] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 13:54:08] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 13:54:08] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 13:54:08] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 13:54:10] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 13:54:15] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 13:54:15] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 13:54:15] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 13:54:15] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 13:54:25] Popup de boas-vindas/informativo fechado.
+[2025-07-08 13:54:25] 🟢 Sessão ativa.
+[2025-07-08 13:54:55] 🟢 Sessão ativa.
+[2025-07-08 15:13:40] Configurações carregadas de config.ini
+[2025-07-08 15:13:40] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 15:13:42] Verificando e liberando porta de depuração...
+[2025-07-08 15:13:42] Monitoramento iniciado.
+[2025-07-08 15:13:42] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 15:13:46] Abrindo TasyNative...
+[2025-07-08 15:13:46] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 15:13:46] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 15:13:46] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 15:13:46] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 15:13:46] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-08 15:13:46] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-08 15:13:51] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-08 15:13:51] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 15:13:51] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 15:13:51] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 15:13:51] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 15:13:52] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 15:13:57] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 15:13:57] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 15:13:57] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 15:13:57] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 15:14:07] Popup de boas-vindas/informativo fechado.
+[2025-07-08 15:14:07] 🟢 Sessão ativa.
+[2025-07-08 15:14:27] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 15:43:19] Configurações carregadas de config.ini
+[2025-07-08 15:43:19] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 15:43:20] Verificando e liberando porta de depuração...
+[2025-07-08 15:43:20] Monitoramento iniciado.
+[2025-07-08 15:43:20] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 15:43:24] Abrindo TasyNative...
+[2025-07-08 15:43:24] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 15:43:24] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 15:43:24] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 15:43:24] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 15:43:24] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-08 15:43:24] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-08 15:43:29] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-08 15:43:29] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 15:43:29] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 15:43:29] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 15:43:29] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 15:43:31] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 15:43:35] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 15:43:35] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 15:43:35] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 15:43:35] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 15:43:51] Popup não encontrado ou já fechado.
+[2025-07-08 15:43:51] 🟢 Sessão ativa.
+[2025-07-08 16:05:36] Configurações carregadas de config.ini
+[2025-07-08 16:05:36] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 16:31:46] Configurações carregadas de config.ini
+[2025-07-08 16:31:46] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 16:34:27] Configurações carregadas de config.ini
+[2025-07-08 16:34:27] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 16:34:30] Monitoramento iniciado.
+[2025-07-08 16:34:30] Verificando e liberando porta de depuração...
+[2025-07-08 16:34:30] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 16:34:33] Abrindo TasyNative...
+[2025-07-08 16:34:33] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 16:34:33] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 16:34:33] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 16:34:33] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-08 16:34:33] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-08 16:34:33] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-08 16:34:33] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 16:34:33] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-08 16:34:33] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-08 16:34:38] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-08 16:34:38] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 16:34:38] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 16:34:39] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 16:34:39] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 16:34:40] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 16:34:45] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 16:34:45] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 16:34:45] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 16:34:45] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 16:34:55] Popup de boas-vindas/informativo fechado.
+[2025-07-08 16:34:55] 🟢 Sessão ativa.
+[2025-07-08 16:35:25] 🟢 Sessão ativa.
+[2025-07-08 16:35:55] 🟢 Sessão ativa.
+[2025-07-08 16:36:26] 🟢 Sessão ativa.
+[2025-07-08 16:36:40] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-08 16:36:56] Monitoramento encerrado.
+[2025-07-08 16:37:00] Aviso: Thread de monitoramento não encerrou completamente dentro do tempo.
+[2025-07-08 16:37:02] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 16:37:04] Encerrando processo 'TasyNative.exe' (PID 24900) escutando na porta 9222
+[2025-07-08 16:37:04] Limpeza de processos do Chrome concluída ao parar.
+[2025-07-08 16:37:04] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 16:38:39] Configurações carregadas de config.ini
+[2025-07-08 16:38:39] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 16:39:01] Configurações carregadas de config.ini
+[2025-07-08 16:39:01] Aplicação iniciada. Verifique as configurações.
+[2025-07-08 16:39:02] Verificando e liberando porta de depuração...
+[2025-07-08 16:39:02] Monitoramento iniciado.
+[2025-07-08 16:39:02] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-08 16:39:06] Abrindo TasyNative...
+[2025-07-08 16:39:06] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-08 16:39:06] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-08 16:39:06] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-08 16:39:06] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-08 16:39:06] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-08 16:39:06] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-08 16:39:06] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-08 16:39:06] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-08 16:39:06] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-08 16:39:11] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-08 16:39:11] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-08 16:39:12] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-08 16:39:12] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-08 16:39:12] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-08 16:39:13] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-08 16:39:18] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-08 16:39:18] URL alterada. Navegação para página pós-login detectada.
+[2025-07-08 16:39:18] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-08 16:39:18] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-08 16:39:28] Popup de boas-vindas/informativo fechado.
+[2025-07-08 16:39:28] 🟢 Sessão ativa.
+[2025-07-08 16:39:38] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-10 08:47:48] Configurações carregadas de config.ini
+[2025-07-10 08:47:48] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 08:50:22] Configurações carregadas de config.ini
+[2025-07-10 08:50:22] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 09:27:52] Configurações carregadas de config.ini
+[2025-07-10 09:27:52] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 09:29:06] Configurações carregadas de config.ini
+[2025-07-10 09:29:06] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 09:29:08] Monitoramento iniciado.
+[2025-07-10 09:29:08] Verificando e liberando porta de depuração...
+[2025-07-10 09:29:08] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 09:29:11] Abrindo TasyNative...
+[2025-07-10 09:29:11] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 09:29:11] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 09:29:11] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 09:29:11] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 09:29:11] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 09:29:11] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 09:29:12] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 09:29:12] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 09:29:12] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 09:29:17] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 09:29:17] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 09:29:17] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 09:29:17] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 09:29:17] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 09:29:19] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 09:29:24] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 09:29:24] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 09:29:24] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 09:29:24] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 09:29:34] Popup de boas-vindas/informativo fechado.
+[2025-07-10 09:29:34] 🟢 Sessão ativa.
+[2025-07-10 10:12:25] Configurações carregadas de config.ini
+[2025-07-10 10:12:25] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:16:16] Configurações carregadas de config.ini
+[2025-07-10 10:16:16] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:16:17] Monitoramento iniciado.
+[2025-07-10 10:16:17] Verificando e liberando porta de depuração...
+[2025-07-10 10:16:17] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:16:21] Abrindo TasyNative...
+[2025-07-10 10:16:21] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:16:21] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:16:21] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:16:21] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:16:21] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 10:16:21] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:16:21] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:16:21] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:16:21] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:16:26] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 10:16:26] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 10:16:26] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 10:16:26] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 10:16:26] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 10:16:27] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 10:16:32] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 10:16:32] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 10:16:32] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 10:16:32] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 10:16:42] Popup de boas-vindas/informativo fechado.
+[2025-07-10 10:16:42] 🟢 Sessão ativa.
+[2025-07-10 10:17:13] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-10 10:17:13] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-10 10:17:13] Verificando e liberando porta de depuração...
+[2025-07-10 10:17:13] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:17:13] Encerrando processo 'TasyNative.exe' (PID 4192) escutando na porta 9222
+[2025-07-10 10:17:16] Abrindo TasyNative...
+[2025-07-10 10:17:16] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:17:16] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:17:16] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:17:16] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:17:16] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 10:17:16] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:17:16] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:17:16] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:17:16] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:17:21] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 10:17:21] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 10:17:21] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 10:17:21] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 10:17:21] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 10:17:23] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 10:17:29] Erro durante o processo de login inicial ou elementos não encontrados: Message: element click intercepted: Element <input class="btn-green w-login-button w-login-button--green" value="Entrar" type="submit"> is not clickable at point (960, 661). Other element would receive the click: <div class="ngdialog-overlay"></div>
+  (Session info: chrome=128.0.6613.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F5B0B632+29090]
+	(No symbol) [0x00007FF6F5A7E6E9]
+	(No symbol) [0x00007FF6F593B1CA]
+	(No symbol) [0x00007FF6F5996C0E]
+	(No symbol) [0x00007FF6F5994682]
+	(No symbol) [0x00007FF6F5991B9B]
+	(No symbol) [0x00007FF6F5990DB5]
+	(No symbol) [0x00007FF6F5982D61]
+	(No symbol) [0x00007FF6F59B66EA]
+	(No symbol) [0x00007FF6F59826A6]
+	(No symbol) [0x00007FF6F59B6900]
+	(No symbol) [0x00007FF6F59D65D9]
+	(No symbol) [0x00007FF6F59B6493]
+	(No symbol) [0x00007FF6F59809B1]
+	(No symbol) [0x00007FF6F5981B11]
+	GetHandleVerifier [0x00007FF6F5E2881D+3294093]
+	GetHandleVerifier [0x00007FF6F5E74403+3604339]
+	GetHandleVerifier [0x00007FF6F5E6A2C7+3563063]
+	GetHandleVerifier [0x00007FF6F5BC6F16+797318]
+	(No symbol) [0x00007FF6F5A8986F]
+	(No symbol) [0x00007FF6F5A85454]
+	(No symbol) [0x00007FF6F5A855E0]
+	(No symbol) [0x00007FF6F5A74A7F]
+	BaseThreadInitThunk [0x00007FFA1894DBE7+23]
+	RtlUserThreadStart [0x00007FFA1A39FBEC+44]
+
+[2025-07-10 10:17:29] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-10 10:17:31] Driver do Selenium fechado após erro.
+[2025-07-10 10:17:31] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:17:34] Encerrando processo 'TasyNative.exe' (PID 19208) escutando na porta 9222
+[2025-07-10 10:17:34] Processos do Chrome e depurador encerrados após erro.
+[2025-07-10 10:17:49] Verificando e liberando porta de depuração...
+[2025-07-10 10:17:49] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:17:53] Abrindo TasyNative...
+[2025-07-10 10:17:53] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:17:53] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:17:53] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:17:53] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:17:53] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 10:17:53] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:17:53] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:17:53] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:17:53] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:17:58] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 10:17:58] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 10:17:58] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 10:17:58] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 10:17:58] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 10:17:59] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 10:18:20] Erro durante o processo de login inicial ou elementos não encontrados: Message: 
+
+[2025-07-10 10:18:20] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-10 10:18:22] Driver do Selenium fechado após erro.
+[2025-07-10 10:18:22] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:18:23] Encerrando processo 'TasyNative.exe' (PID 17340) escutando na porta 9222
+[2025-07-10 10:18:23] Processos do Chrome e depurador encerrados após erro.
+[2025-07-10 10:18:38] Verificando e liberando porta de depuração...
+[2025-07-10 10:18:38] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:18:42] Abrindo TasyNative...
+[2025-07-10 10:18:42] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:18:42] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:18:42] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:18:42] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:18:42] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 10:18:42] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:18:42] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:18:42] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:18:42] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:18:47] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 10:18:47] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 10:18:47] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 10:18:47] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 10:18:47] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 10:18:48] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 10:18:53] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 10:18:53] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 10:18:53] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 10:18:53] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 10:19:03] Popup de boas-vindas/informativo fechado.
+[2025-07-10 10:19:04] 🟢 Sessão ativa.
+[2025-07-10 10:23:08] Configurações carregadas de config.ini
+[2025-07-10 10:23:08] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:23:10] Verificando e liberando porta de depuração...
+[2025-07-10 10:23:10] Monitoramento iniciado.
+[2025-07-10 10:23:10] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:23:14] Abrindo TasyNative...
+[2025-07-10 10:23:14] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:23:14] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:23:14] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:23:14] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:23:14] Argumento de depuração remota adicionado (configurado para adicionar se ausente). Argumentos finais: '--remote-debugging-port=9222'
+[2025-07-10 10:23:14] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 10:23:14] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:23:14] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:23:14] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:23:14] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:23:19] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 10:23:19] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 10:23:19] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 10:23:19] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 10:23:19] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 10:23:20] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 10:23:25] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 10:23:25] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 10:23:25] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 10:23:25] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 10:23:35] Popup de boas-vindas/informativo fechado.
+[2025-07-10 10:23:36] 🟢 Sessão ativa.
+[2025-07-10 10:23:47] Configurações carregadas de config.ini
+[2025-07-10 10:23:47] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:23:55] Configurações salvas em config.ini
+[2025-07-10 10:23:55] Configurações atualizadas e salvas.
+[2025-07-10 10:23:56] Monitoramento iniciado.
+orta de depuração...
+[2025-07-10 10:23:56] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:23:59] Abrindo TasyNative...
+[2025-07-10 10:23:59] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:23:59] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:23:59] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:23:59] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:23:59] Opção 'Adicionar Depuração Remota se Ausente' desativada. Argumento não será adicionado pelo script.
+[2025-07-10 10:23:59] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" '
+[2025-07-10 10:23:59] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:23:59] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:23:59] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:23:59] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:24:04] Porta 9222 ainda não está ocupada. Aguardando... (5s/60s)
+[2025-07-10 10:24:09] Porta 9222 ainda não está ocupada. Aguardando... (10s/60s)
+[2025-07-10 10:24:14] Porta 9222 ainda não está ocupada. Aguardando... (15s/60s)
+[2025-07-10 10:24:19] Porta 9222 ainda não está ocupada. Aguardando... (20s/60s)
+[2025-07-10 10:24:24] Porta 9222 ainda não está ocupada. Aguardando... (25s/60s)
+[2025-07-10 10:24:29] Porta 9222 ainda não está ocupada. Aguardando... (30s/60s)
+[2025-07-10 10:24:34] Porta 9222 ainda não está ocupada. Aguardando... (35s/60s)
+[2025-07-10 10:24:37] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-10 10:24:39] Porta 9222 ainda não está ocupada. Aguardando... (40s/60s)
+[2025-07-10 10:27:53] Configurações carregadas de config.ini
+[2025-07-10 10:27:53] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:27:55] Verificando e liberando porta de depuração...
+[2025-07-10 10:27:55] Monitoramento iniciado.
+[2025-07-10 10:27:55] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:27:58] Abrindo TasyNative...
+[2025-07-10 10:27:58] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:27:58] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:27:59] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:27:59] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:27:59] Opção 'Adicionar Depuração Remota se Ausente' desativada. Argumento não será adicionado pelo script.
+[2025-07-10 10:27:59] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" '
+[2025-07-10 10:27:59] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:27:59] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:27:59] Dando um tempo inicial para o Tasy Native iniciar o Chrome...
+[2025-07-10 10:28:09] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:28:09] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:28:14] Porta 9222 ainda não está ocupada. Aguardando... (5s/60s)
+[2025-07-10 10:28:19] Porta 9222 ainda não está ocupada. Aguardando... (10s/60s)
+[2025-07-10 10:28:20] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-10 10:28:34] Configurações carregadas de config.ini
+[2025-07-10 10:28:34] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:29:05] Configurações carregadas de config.ini
+[2025-07-10 10:29:05] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 10:29:10] Verificando e liberando porta de depuração...
+[2025-07-10 10:29:10] Monitoramento iniciado.
+[2025-07-10 10:29:10] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 10:29:14] Abrindo TasyNative...
+[2025-07-10 10:29:14] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 10:29:14] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 10:29:14] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 10:29:14] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:29:14] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-10 10:29:14] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 10:29:14] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 10:29:14] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 10:29:14] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 10:29:14] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 10:29:19] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 10:29:19] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 10:29:19] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 10:29:19] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 10:29:19] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 10:29:20] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 10:29:25] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 10:29:25] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 10:29:25] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 10:29:25] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 10:29:35] Popup de boas-vindas/informativo fechado.
+[2025-07-10 10:29:35] 🟢 Sessão ativa.
+[2025-07-10 11:00:01] Configurações carregadas de config.ini
+[2025-07-10 11:00:01] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:00:03] Verificando e liberando porta de depuração...
+[2025-07-10 11:00:03] Monitoramento iniciado.
+[2025-07-10 11:00:03] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:00:08] Abrindo TasyNative...
+[2025-07-10 11:00:08] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:00:08] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:00:08] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:00:08] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:00:08] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:00:08] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:00:08] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:00:08] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:00:08] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:00:13] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:00:13] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:00:13] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:00:13] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:00:13] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:00:15] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:00:20] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:00:20] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:00:20] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:00:20] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:00:30] Popup de boas-vindas/informativo fechado.
+[2025-07-10 11:00:30] 🟢 Sessão ativa.
+[2025-07-10 11:01:00] 🟢 Sessão ativa.
+[2025-07-10 11:14:55] Configurações carregadas de config.ini
+[2025-07-10 11:14:55] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:15:25] Configurações carregadas de config.ini
+[2025-07-10 11:15:25] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:15:27] Verificando e liberando porta de depuração...
+[2025-07-10 11:15:27] Monitoramento iniciado.
+[2025-07-10 11:15:27] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:15:31] Abrindo TasyNative...
+[2025-07-10 11:15:31] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:15:31] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:15:31] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:15:31] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:15:31] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:15:31] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:15:31] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:15:31] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:15:31] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:15:36] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:15:36] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:15:36] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:15:36] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:15:36] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:15:37] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:15:42] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:15:42] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:15:42] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:15:42] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:15:52] Popup de boas-vindas/informativo fechado.
+[2025-07-10 11:15:52] 🟢 Sessão ativa.
+[2025-07-10 11:16:23] Erro ao verificar sessão (WebDriverException): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F5B0B632+29090]
+	(No symbol) [0x00007FF6F5A7E6E9]
+	(No symbol) [0x00007FF6F593B1CA]
+	(No symbol) [0x00007FF6F590FAF5]
+	(No symbol) [0x00007FF6F59BE2E7]
+	(No symbol) [0x00007FF6F59D5EE1]
+	(No symbol) [0x00007FF6F59B6493]
+	(No symbol) [0x00007FF6F59809B1]
+	(No symbol) [0x00007FF6F5981B11]
+	GetHandleVerifier [0x00007FF6F5E2881D+3294093]
+	GetHandleVerifier [0x00007FF6F5E74403+3604339]
+	GetHandleVerifier [0x00007FF6F5E6A2C7+3563063]
+	GetHandleVerifier [0x00007FF6F5BC6F16+797318]
+	(No symbol) [0x00007FF6F5A8986F]
+	(No symbol) [0x00007FF6F5A85454]
+	(No symbol) [0x00007FF6F5A855E0]
+	(No symbol) [0x00007FF6F5A74A7F]
+	BaseThreadInitThunk [0x00007FFA1894DBE7+23]
+	RtlUserThreadStart [0x00007FFA1A39FBEC+44]
+. Presumindo que a sessão está instável e requer reinício.
+[2025-07-10 11:16:23] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-10 11:16:23] Verificando e liberando porta de depuração...
+[2025-07-10 11:16:23] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:16:26] Abrindo TasyNative...
+[2025-07-10 11:16:26] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:16:26] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:16:26] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:16:26] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:16:26] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:16:26] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:16:26] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:16:26] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:16:26] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:16:31] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:16:31] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:16:31] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:16:31] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:16:31] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:16:33] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:16:38] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:16:38] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:16:38] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:16:38] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:16:48] Popup de boas-vindas/informativo fechado.
+[2025-07-10 11:16:48] 🟢 Sessão ativa.
+[2025-07-10 11:17:18] 🟢 Sessão ativa.
+[2025-07-10 11:17:48] 🟢 Sessão ativa.
+[2025-07-10 11:18:04] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-10 11:27:40] Configurações carregadas de config.ini
+[2025-07-10 11:27:40] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:27:46] Configurações salvas em config.ini
+[2025-07-10 11:27:46] Configurações atualizadas e salvas.
+[2025-07-10 11:27:47] Verificando e liberando porta de depuração...
+[2025-07-10 11:27:47] Monitoramento iniciado.
+[2025-07-10 11:27:47] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:27:51] Abrindo TasyNative...
+[2025-07-10 11:27:51] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:27:51] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:27:51] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:27:51] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:27:51] Argumento de depuração remota NÃO será adicionado pelo script. Usando argumentos originais do atalho.
+[2025-07-10 11:27:51] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:27:51] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:27:51] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:27:51] Dando um tempo inicial para o Tasy Native iniciar o Chrome...
+[2025-07-10 11:28:01] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:28:01] Porta 9222 está ocupada.
+[2025-07-10 11:28:01] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:28:06] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:28:06] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:28:06] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:28:06] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:28:08] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:28:12] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:28:12] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:28:12] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:28:12] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:28:24] Popup não encontrado ou já fechado.
+[2025-07-10 11:28:24] 🟢 Sessão ativa.
+[2025-07-10 11:28:54] Erro ao verificar sessão (WebDriverException): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F5B0B632+29090]
+	(No symbol) [0x00007FF6F5A7E6E9]
+	(No symbol) [0x00007FF6F593B1CA]
+	(No symbol) [0x00007FF6F590FAF5]
+	(No symbol) [0x00007FF6F59BE2E7]
+	(No symbol) [0x00007FF6F59D5EE1]
+	(No symbol) [0x00007FF6F59B6493]
+	(No symbol) [0x00007FF6F59809B1]
+	(No symbol) [0x00007FF6F5981B11]
+	GetHandleVerifier [0x00007FF6F5E2881D+3294093]
+	GetHandleVerifier [0x00007FF6F5E74403+3604339]
+	GetHandleVerifier [0x00007FF6F5E6A2C7+3563063]
+	GetHandleVerifier [0x00007FF6F5BC6F16+797318]
+	(No symbol) [0x00007FF6F5A8986F]
+	(No symbol) [0x00007FF6F5A85454]
+	(No symbol) [0x00007FF6F5A855E0]
+	(No symbol) [0x00007FF6F5A74A7F]
+	BaseThreadInitThunk [0x00007FFA1894DBE7+23]
+	RtlUserThreadStart [0x00007FFA1A39FBEC+44]
+. Presumindo que a sessão está instável e requer reinício.
+[2025-07-10 11:28:54] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-10 11:28:54] Verificando e liberando porta de depuração...
+[2025-07-10 11:28:54] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:28:57] Abrindo TasyNative...
+[2025-07-10 11:28:57] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:28:57] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:28:57] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:28:57] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:28:57] Argumento de depuração remota NÃO será adicionado pelo script. Usando argumentos originais do atalho.
+[2025-07-10 11:28:57] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:28:57] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:28:57] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:28:57] Dando um tempo inicial para o Tasy Native iniciar o Chrome...
+[2025-07-10 11:29:08] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:29:08] Porta 9222 está ocupada.
+[2025-07-10 11:29:08] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:29:13] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:29:13] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:29:13] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:29:13] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:29:14] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:29:31] Erro durante o processo de login inicial ou elementos não encontrados: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.162)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F5B0B632+29090]
+	(No symbol) [0x00007FF6F5A7E6E9]
+	(No symbol) [0x00007FF6F593B1CA]
+	(No symbol) [0x00007FF6F590FAF5]
+	(No symbol) [0x00007FF6F59BE2E7]
+	(No symbol) [0x00007FF6F59D5EE1]
+	(No symbol) [0x00007FF6F59B6493]
+	(No symbol) [0x00007FF6F59809B1]
+	(No symbol) [0x00007FF6F5981B11]
+	GetHandleVerifier [0x00007FF6F5E2881D+3294093]
+	GetHandleVerifier [0x00007FF6F5E74403+3604339]
+	GetHandleVerifier [0x00007FF6F5E6A2C7+3563063]
+	GetHandleVerifier [0x00007FF6F5BC6F16+797318]
+	(No symbol) [0x00007FF6F5A8986F]
+	(No symbol) [0x00007FF6F5A85454]
+	(No symbol) [0x00007FF6F5A855E0]
+	(No symbol) [0x00007FF6F5A74A7F]
+	BaseThreadInitThunk [0x00007FFA1894DBE7+23]
+	RtlUserThreadStart [0x00007FFA1A39FBEC+44]
+
+[2025-07-10 11:29:31] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-10 11:29:33] Driver do Selenium fechado após erro.
+[2025-07-10 11:29:33] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:29:36] Processos do Chrome e depurador encerrados após erro.
+[2025-07-10 11:29:51] Verificando e liberando porta de depuração...
+[2025-07-10 11:29:51] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:29:55] Abrindo TasyNative...
+[2025-07-10 11:29:55] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:29:55] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:29:55] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:29:55] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='--remote-debugging-port=9222', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:29:55] Argumento de depuração remota NÃO será adicionado pelo script. Usando argumentos originais do atalho.
+[2025-07-10 11:29:55] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:29:55] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:29:55] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:29:55] Dando um tempo inicial para o Tasy Native iniciar o Chrome...
+[2025-07-10 11:30:05] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:30:05] Porta 9222 está ocupada.
+[2025-07-10 11:30:05] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:30:10] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:30:10] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:30:10] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:30:10] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:30:11] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:30:30] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:30:30] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:30:30] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:30:30] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:30:45] Popup não encontrado ou já fechado.
+[2025-07-10 11:30:45] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-10 11:30:45] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-10 11:30:45] Verificando e liberando porta de depuração...
+[2025-07-10 11:30:45] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:30:47] Encerrando processo 'TasyNative.exe' (PID 19376) escutando na porta 9222
+[2025-07-10 11:30:49] Abrindo TasyNative...
+[2025-07-10 11:30:49] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:30:49] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:30:49] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:30:49] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:30:49] Argumento de depuração remota NÃO será adicionado pelo script. Usando argumentos originais do atalho.
+[2025-07-10 11:30:49] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" '
+[2025-07-10 11:30:49] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:30:49] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:30:49] Dando um tempo inicial para o Tasy Native iniciar o Chrome...
+[2025-07-10 11:30:59] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:30:59] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:31:04] Porta 9222 ainda não está ocupada. Aguardando... (5s/60s)
+[2025-07-10 11:31:09] Porta 9222 ainda não está ocupada. Aguardando... (10s/60s)
+[2025-07-10 11:33:02] Configurações carregadas de config.ini
+[2025-07-10 11:33:02] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:33:04] Verificando e liberando porta de depuração...
+[2025-07-10 11:33:04] Monitoramento iniciado.
+[2025-07-10 11:33:04] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:33:08] Abrindo TasyNative...
+[2025-07-10 11:33:08] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:33:08] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:33:08] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:33:08] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:33:08] Argumento de depuração remota NÃO será adicionado pelo script. Usando argumentos originais do atalho.
+[2025-07-10 11:33:08] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" '
+[2025-07-10 11:33:08] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:33:08] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:33:08] Dando um tempo inicial para o Tasy Native iniciar o Chrome...
+[2025-07-10 11:33:18] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:33:18] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:33:23] Porta 9222 ainda não está ocupada. Aguardando... (5s/60s)
+[2025-07-10 11:33:28] Porta 9222 ainda não está ocupada. Aguardando... (10s/60s)
+[2025-07-10 11:33:33] Porta 9222 ainda não está ocupada. Aguardando... (15s/60s)
+[2025-07-10 11:33:38] Porta 9222 ainda não está ocupada. Aguardando... (20s/60s)
+[2025-07-10 11:33:43] Porta 9222 ainda não está ocupada. Aguardando... (25s/60s)
+[2025-07-10 11:33:48] Porta 9222 ainda não está ocupada. Aguardando... (30s/60s)
+[2025-07-10 11:33:53] Porta 9222 ainda não está ocupada. Aguardando... (35s/60s)
+[2025-07-10 11:33:58] Porta 9222 ainda não está ocupada. Aguardando... (40s/60s)
+[2025-07-10 11:34:56] Configurações carregadas de config.ini
+[2025-07-10 11:34:56] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:34:58] Monitoramento iniciado.
+orta de depuração...
+[2025-07-10 11:34:58] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:34:59] Encerrando processo 'TasyNative.exe' (PID 9932) escutando na porta 9222
+[2025-07-10 11:35:02] Abrindo TasyNative...
+[2025-07-10 11:35:02] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:35:02] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:35:02] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:35:02] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:35:02] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-10 11:35:02] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:35:02] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:35:02] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:35:02] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:35:02] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:35:07] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:35:07] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:35:07] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:35:07] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:35:07] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:35:08] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:35:13] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:35:13] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:35:13] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:35:13] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:35:20] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-10 11:35:28] Configurações carregadas de config.ini
+[2025-07-10 11:35:28] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:35:29] Verificando e liberando porta de depuração...
+[2025-07-10 11:35:29] Monitoramento iniciado.
+[2025-07-10 11:35:29] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:35:33] Abrindo TasyNative...
+[2025-07-10 11:35:33] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:35:33] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:35:33] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:35:33] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:35:33] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-10 11:35:33] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:35:33] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:35:33] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:35:33] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:35:33] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:35:38] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:35:38] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:35:38] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:35:38] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:35:38] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:35:40] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:35:45] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:35:45] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:35:45] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:35:45] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:35:55] Popup de boas-vindas/informativo fechado.
+[2025-07-10 11:35:55] 🟢 Sessão ativa.
+[2025-07-10 11:35:59] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-10 11:51:01] Configurações carregadas de config.ini
+[2025-07-10 11:51:01] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 11:51:04] Monitoramento iniciado.
+orta de depuração...
+[2025-07-10 11:51:04] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 11:51:07] Abrindo TasyNative...
+[2025-07-10 11:51:07] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 11:51:07] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 11:51:07] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 11:51:07] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:51:07] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-10 11:51:07] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 11:51:07] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 11:51:07] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 11:51:07] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 11:51:07] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 11:51:12] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 11:51:12] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 11:51:13] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 11:51:13] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 11:51:13] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 11:51:14] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 11:51:19] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 11:51:19] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 11:51:19] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 11:51:19] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 11:51:34] Popup não encontrado ou já fechado.
+[2025-07-10 11:51:34] 🟢 Sessão ativa.
+[2025-07-10 13:35:29] Configurações carregadas de config.ini
+[2025-07-10 13:35:29] Aplicação iniciada. Verifique as configurações.
+[2025-07-10 13:35:31] Verificando e liberando porta de depuração...
+[2025-07-10 13:35:31] Monitoramento iniciado.
+[2025-07-10 13:35:31] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-10 13:35:35] Abrindo TasyNative...
+[2025-07-10 13:35:35] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-10 13:35:35] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-10 13:35:35] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-10 13:35:35] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 13:35:35] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-10 13:35:35] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-10 13:35:35] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-10 13:35:35] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-10 13:35:35] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-10 13:35:36] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-10 13:35:41] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-10 13:35:41] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-10 13:35:41] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-10 13:35:41] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-10 13:35:41] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-10 13:35:42] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-10 13:35:47] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-10 13:35:47] URL alterada. Navegação para página pós-login detectada.
+[2025-07-10 13:35:47] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-10 13:35:47] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-10 13:35:57] Popup de boas-vindas/informativo fechado.
+[2025-07-10 13:35:57] 🟢 Sessão ativa.
+[2025-07-10 15:12:19] Configurações carregadas de config.ini
+[2025-07-10 15:12:19] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 07:53:19] Configurações carregadas de config.ini
+[2025-07-11 07:53:19] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 07:54:13] Verificando e liberando porta de depuração...
+[2025-07-11 07:54:13] Monitoramento iniciado.
+[2025-07-11 07:54:13] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 07:54:17] Abrindo TasyNative...
+[2025-07-11 07:54:17] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 07:54:17] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 07:54:17] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 07:54:17] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 07:54:17] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 07:54:17] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 07:54:17] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 07:54:18] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 07:54:18] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 07:54:18] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 07:54:23] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 07:54:23] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 07:54:23] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 07:54:23] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 07:54:23] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 07:54:25] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 07:54:30] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 07:54:30] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 07:54:30] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 07:54:30] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 07:54:40] Popup de boas-vindas/informativo fechado.
+[2025-07-11 07:54:40] 🟢 Sessão ativa.
+[2025-07-11 07:54:42] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-11 07:55:02] Aviso: Thread de monitoramento não encerrou completamente dentro do tempo.
+[2025-07-11 07:55:04] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 07:55:06] Limpeza de processos do Chrome concluída ao parar.
+[2025-07-11 07:55:10] Monitoramento encerrado.
+[2025-07-11 07:55:10] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 07:55:21] Verificando e liberando porta de depuração...
+[2025-07-11 07:55:21] Monitoramento iniciado.
+[2025-07-11 07:55:21] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 07:55:24] Abrindo TasyNative...
+[2025-07-11 07:55:24] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 07:55:24] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 07:55:24] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 07:55:24] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 07:55:24] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 07:55:24] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 07:55:24] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 07:55:24] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 07:55:24] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 07:55:25] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 07:55:30] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 07:55:30] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 07:55:30] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 07:55:30] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 07:55:30] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 07:55:31] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 07:55:36] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 07:55:36] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 07:55:36] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 07:55:36] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 07:55:46] Popup de boas-vindas/informativo fechado.
+[2025-07-11 07:55:46] 🟢 Sessão ativa.
+[2025-07-11 09:11:39] Configurações carregadas de config.ini
+[2025-07-11 09:11:39] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 09:11:43] Verificando e liberando porta de depuração...
+[2025-07-11 09:11:43] Monitoramento iniciado.
+[2025-07-11 09:11:43] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 09:11:46] Abrindo TasyNative...
+[2025-07-11 09:11:46] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 09:11:46] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 09:11:46] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 09:11:46] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:11:46] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 09:11:46] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 09:11:46] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:11:46] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 09:11:46] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 09:11:46] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 09:11:51] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 09:11:51] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 09:11:51] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 09:11:51] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 09:11:51] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 09:11:53] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 09:12:13] Erro durante o processo de login inicial ou elementos não encontrados: Message: 
+
+[2025-07-11 09:12:13] Erro crítico na automação: Falha no login ou elementos não encontrados.. Tentando reiniciar...
+[2025-07-11 09:12:15] Driver do Selenium fechado após erro.
+[2025-07-11 09:12:15] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 09:12:16] Encerrando processo 'TasyNative.exe' (PID 5260) escutando na porta 9222
+[2025-07-11 09:12:16] Processos do Chrome e depurador encerrados após erro.
+[2025-07-11 09:12:31] Verificando e liberando porta de depuração...
+[2025-07-11 09:12:31] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 09:12:34] Abrindo TasyNative...
+[2025-07-11 09:12:34] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 09:12:34] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 09:12:34] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 09:12:34] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:12:34] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 09:12:34] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 09:12:34] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:12:34] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 09:12:34] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 09:12:34] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 09:12:39] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 09:12:39] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 09:12:39] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 09:12:40] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 09:12:40] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 09:12:41] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 09:12:46] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 09:12:46] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 09:12:46] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 09:12:46] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 09:12:56] Popup de boas-vindas/informativo fechado.
+[2025-07-11 09:12:56] 🟢 Sessão ativa.
+[2025-07-11 09:13:26] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-11 09:13:27] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-11 09:13:27] Verificando e liberando porta de depuração...
+[2025-07-11 09:13:27] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 09:13:28] Encerrando processo 'TasyNative.exe' (PID 18660) escutando na porta 9222
+[2025-07-11 09:13:30] Abrindo TasyNative...
+[2025-07-11 09:13:30] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 09:13:30] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 09:13:30] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 09:13:30] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:13:30] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 09:13:30] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 09:13:30] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:13:30] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 09:13:30] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 09:13:30] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 09:13:35] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 09:13:35] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 09:13:35] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 09:13:35] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 09:13:35] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 09:13:36] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 09:13:41] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 09:13:41] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 09:13:41] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 09:13:41] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 09:13:51] Popup de boas-vindas/informativo fechado.
+[2025-07-11 09:13:51] 🟢 Sessão ativa.
+[2025-07-11 09:14:21] 🟢 Sessão ativa.
+[2025-07-11 09:14:51] 🟢 Sessão ativa.
+[2025-07-11 09:15:21] 🟢 Sessão ativa.
+[2025-07-11 09:15:52] 🟢 Sessão ativa.
+[2025-07-11 09:16:22] 🟢 Sessão ativa.
+[2025-07-11 09:16:52] 🟢 Sessão ativa.
+[2025-07-11 09:17:22] 🟢 Sessão ativa.
+[2025-07-11 09:25:17] Configurações carregadas de config.ini
+[2025-07-11 09:25:17] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 09:25:41] Configurações salvas em config.ini
+[2025-07-11 09:25:41] Configurações atualizadas e salvas.
+[2025-07-11 09:25:43] Verificando e liberando porta de depuração...
+[2025-07-11 09:25:43] Monitoramento iniciado.
+[2025-07-11 09:25:43] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 09:25:46] Abrindo TasyNative...
+[2025-07-11 09:25:46] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 09:25:46] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 09:25:46] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 09:25:46] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:25:46] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 09:25:46] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 09:25:46] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 09:25:46] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 09:25:46] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 09:25:46] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 09:25:51] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 09:25:51] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 09:25:51] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 09:25:51] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 09:25:51] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 09:25:53] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 09:25:55] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 09:25:55] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 09:25:55] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 09:25:55] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 09:26:10] Popup não encontrado ou já fechado.
+[2025-07-11 09:26:10] 🟢 Sessão ativa.
+[2025-07-11 09:26:23] Configurações salvas em config.ini
+[2025-07-11 09:26:23] Configurações atualizadas e salvas.
+[2025-07-11 11:21:05] Configurações carregadas de config.ini
+[2025-07-11 11:21:05] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 11:21:09] Verificando e liberando porta de depuração...
+[2025-07-11 11:21:09] Monitoramento iniciado.
+[2025-07-11 11:21:09] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:21:13] Abrindo TasyNative...
+[2025-07-11 11:21:13] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 11:21:13] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 11:21:13] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 11:21:13] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:21:13] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 11:21:13] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 11:21:13] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:21:13] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 11:21:13] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 11:21:13] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 11:21:18] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 11:21:18] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 11:21:18] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 11:21:18] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 11:21:18] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 11:21:20] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 11:21:27] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 11:21:27] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 11:21:27] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 11:21:27] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 11:21:37] Popup de boas-vindas/informativo fechado.
+[2025-07-11 11:21:37] 🟢 Sessão ativa.
+[2025-07-11 11:22:08] 🟢 Sessão ativa.
+[2025-07-11 11:22:38] 🟢 Sessão ativa.
+[2025-07-11 11:23:08] 🟢 Sessão ativa.
+[2025-07-11 11:23:38] 🟢 Sessão ativa.
+[2025-07-11 11:24:08] 🟢 Sessão ativa.
+[2025-07-11 11:24:38] 🟢 Sessão ativa.
+[2025-07-11 11:25:08] 🟢 Sessão ativa.
+[2025-07-11 11:25:39] 🟢 Sessão ativa.
+[2025-07-11 11:26:09] 🟢 Sessão ativa.
+[2025-07-11 11:26:39] 🟢 Sessão ativa.
+[2025-07-11 11:27:09] 🟢 Sessão ativa.
+[2025-07-11 11:27:39] 🟢 Sessão ativa.
+[2025-07-11 11:28:09] 🟢 Sessão ativa.
+[2025-07-11 11:28:39] 🟢 Sessão ativa.
+[2025-07-11 11:29:09] 🟢 Sessão ativa.
+[2025-07-11 11:29:39] 🟢 Sessão ativa.
+[2025-07-11 11:30:09] 🟢 Sessão ativa.
+[2025-07-11 11:30:39] 🟢 Sessão ativa.
+[2025-07-11 11:31:10] 🟢 Sessão ativa.
+[2025-07-11 11:31:40] 🟢 Sessão ativa.
+[2025-07-11 11:37:03] Configurações carregadas de config.ini
+[2025-07-11 11:37:03] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 11:39:28] Configurações carregadas de config.ini
+[2025-07-11 11:39:28] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 11:39:29] Verificando e liberando porta de depuração...
+[2025-07-11 11:39:29] Monitoramento iniciado.
+[2025-07-11 11:39:29] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:39:33] Abrindo TasyNative...
+[2025-07-11 11:39:33] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 11:39:33] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 11:39:33] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 11:39:33] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:39:33] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 11:39:33] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 11:39:33] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:39:33] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 11:39:33] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 11:39:33] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 11:39:38] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 11:39:38] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 11:39:38] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 11:39:38] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 11:39:38] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 11:39:40] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 11:39:45] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 11:39:45] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 11:39:45] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 11:39:45] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 11:39:55] Popup de boas-vindas/informativo fechado.
+[2025-07-11 11:39:55] 🟢 Sessão ativa.
+[2025-07-11 11:40:25] 🟢 Sessão ativa.
+[2025-07-11 11:40:45] Sinal para parar monitoramento enviado. Aguarde a finalização...
+[2025-07-11 11:40:55] Monitoramento encerrado.
+[2025-07-11 11:41:05] Aviso: Thread de monitoramento não encerrou completamente dentro do tempo.
+[2025-07-11 11:41:07] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:41:08] Encerrando processo 'TasyNative.exe' (PID 20228) escutando na porta 9222
+[2025-07-11 11:41:08] Limpeza de processos do Chrome concluída ao parar.
+[2025-07-11 11:41:08] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:42:13] Verificando e liberando porta de depuração...
+[2025-07-11 11:42:13] Monitoramento iniciado.
+[2025-07-11 11:42:13] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:42:17] Abrindo TasyNative...
+[2025-07-11 11:42:17] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 11:42:17] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 11:42:17] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 11:42:17] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:42:17] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 11:42:17] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 11:42:17] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:42:17] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 11:42:17] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 11:42:17] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 11:42:22] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 11:42:22] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 11:42:22] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 11:42:22] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 11:42:22] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 11:42:23] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 11:42:28] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 11:42:28] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 11:42:28] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 11:42:28] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 11:42:43] Popup não encontrado ou já fechado.
+[2025-07-11 11:42:43] ⚠️ Sessão deslogada (campo de login visível).
+[2025-07-11 11:42:43] Sessão deslogada ou erro detectado. Reiniciando automação...
+[2025-07-11 11:42:43] Verificando e liberando porta de depuração...
+[2025-07-11 11:42:43] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:42:45] Encerrando processo 'TasyNative.exe' (PID 15724) escutando na porta 9222
+[2025-07-11 11:42:47] Abrindo TasyNative...
+[2025-07-11 11:42:47] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 11:42:47] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 11:42:47] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 11:42:47] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:42:47] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 11:42:47] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 11:42:47] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:42:47] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 11:42:47] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 11:42:47] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 11:42:52] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 11:42:52] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 11:42:52] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 11:42:52] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 11:42:52] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 11:42:53] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 11:42:58] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 11:42:58] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 11:42:58] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 11:42:58] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 11:43:08] Popup de boas-vindas/informativo fechado.
+[2025-07-11 11:43:08] 🟢 Sessão ativa.
+[2025-07-11 11:43:44] Configurações carregadas de config.ini
+[2025-07-11 11:43:44] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 11:43:46] Verificando e liberando porta de depuração...
+[2025-07-11 11:43:46] Monitoramento iniciado.
+[2025-07-11 11:43:46] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 11:43:49] Abrindo TasyNative...
+[2025-07-11 11:43:49] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 11:43:49] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 11:43:49] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 11:43:49] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:43:49] Argumentos finais para o atalho existente: '--remote-debugging-port=9222 --disk-cache-dir="C:\VsCode\chromedriver-win64 - backup" --disk-cache-size=104857600'
+[2025-07-11 11:43:50] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222 --disk-cache-dir="C:\VsCode\chromedriver-win64 - backup" --disk-cache-size=104857600'
+[2025-07-11 11:43:50] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 11:43:50] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 11:43:50] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 11:43:50] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 11:43:55] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 11:43:55] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 11:43:55] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 11:43:55] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 11:43:55] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 11:43:56] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 11:44:01] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 11:44:01] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 11:44:01] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 11:44:01] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 11:44:11] Popup de boas-vindas/informativo fechado.
+[2025-07-11 11:44:11] 🟢 Sessão ativa.
+[2025-07-11 11:44:26] Configurações carregadas de config.ini
+[2025-07-11 11:44:26] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 11:55:43] Configurações carregadas de config.ini
+[2025-07-11 11:55:43] Aplicativo iniciado.
+[2025-07-11 11:55:44] TasyNative iniciado pelo atalho.
+[2025-07-11 11:55:55] Erro no login: There are 3 elements that match the criteria {'title_re': '.*Tasy.*', 'backend': 'uia', 'visible_only': False}
+[2025-07-11 11:55:55] Nenhum popup encontrado.
+[2025-07-11 11:55:55] 🟢 Sessão ativa.
+[2025-07-11 11:59:36] Configurações carregadas de config.ini
+[2025-07-11 11:59:36] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 12:57:20] Configurações carregadas de config.ini
+[2025-07-11 12:57:20] Aplicativo iniciado.
+[2025-07-11 12:57:22] TasyNative iniciado pelo atalho.
+[2025-07-11 12:57:32] Erro no login: There are 3 elements that match the criteria {'title_re': '.*Tasy.*', 'backend': 'uia', 'visible_only': False}
+[2025-07-11 12:57:32] Nenhum popup encontrado.
+[2025-07-11 12:57:32] 🟢 Sessão ativa.
+[2025-07-11 13:11:21] Configurações carregadas de config.ini
+[2025-07-11 13:11:21] Aplicativo iniciado.
+[2025-07-11 13:11:23] TasyNative iniciado pelo atalho.
+[2025-07-11 13:11:33] Erro durante o login completo: There are 3 elements that match the criteria {'title_re': '.*TasyNative.*', 'backend': 'uia', 'visible_only': False}
+[2025-07-11 13:11:33] Nenhum popup encontrado.
+[2025-07-11 13:11:33] 🟢 Sessão ativa.
+[2025-07-11 13:11:57] Configurações carregadas de config.ini
+[2025-07-11 13:11:57] Aplicação iniciada. Verifique as configurações.
+[2025-07-11 13:12:00] Monitoramento iniciado.
+[2025-07-11 13:12:00] Verificando e liberando porta de depuração...
+[2025-07-11 13:12:00] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-11 13:12:04] Abrindo TasyNative...
+[2025-07-11 13:12:04] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-11 13:12:04] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-11 13:12:04] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-11 13:12:04] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 13:12:04] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-11 13:12:04] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-11 13:12:04] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-11 13:12:04] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-11 13:12:04] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-11 13:12:04] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-11 13:12:09] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-11 13:12:09] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-11 13:12:09] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-11 13:12:09] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-11 13:12:09] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-11 13:12:11] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-11 13:12:15] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-11 13:12:15] URL alterada. Navegação para página pós-login detectada.
+[2025-07-11 13:12:15] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-11 13:12:15] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-11 13:12:26] Popup de boas-vindas/informativo fechado.
+[2025-07-11 13:12:26] 🟢 Sessão ativa.
+[2025-07-14 10:32:39] Configurações carregadas de config.ini
+[2025-07-14 10:32:39] Aplicação iniciada. Verifique as configurações.
+[2025-07-14 10:32:41] Monitoramento iniciado.
+[2025-07-14 10:32:41] Verificando e liberando porta de depuração...
+[2025-07-14 10:32:41] Tentando encerrar processos do Chrome ou outros na porta 9222...
+[2025-07-14 10:32:48] Abrindo TasyNative...
+[2025-07-14 10:32:48] Caminhos de atalho existentes a tentar: ['C:\\Program Files\\Philips EMR\\TasyNative\\TasyNative.lnk', 'C:\\Program Files\\Philips EMR\\tasy-native\\tasy-native.lnk']
+[2025-07-14 10:32:48] Verificando atalho existente em: 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'
+[2025-07-14 10:32:48] Atalho encontrado em 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'. Tentando abrir...
+[2025-07-14 10:32:48] Propriedades do atalho: TargetPath='C:\Program Files\Philips EMR\TasyNative\TasyNative.exe', Arguments='', WorkingDirectory='C:\Program Files\Philips EMR\TasyNative'
+[2025-07-14 10:32:48] Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '--remote-debugging-port=9222'
+[2025-07-14 10:32:48] Comando final para subprocess.Popen: '"C:\Program Files\Philips EMR\TasyNative\TasyNative.exe" --remote-debugging-port=9222'
+[2025-07-14 10:32:48] Diretório de trabalho (cwd) para subprocess.Popen: 'C:\Program Files\Philips EMR\TasyNative'
+[2025-07-14 10:32:49] Atalho do Tasy Native aberto com sucesso de 'C:\Program Files\Philips EMR\TasyNative\TasyNative.lnk'.
+[2025-07-14 10:32:49] Aguardando porta 9222 ficar disponível após lançamento do Tasy Native...
+[2025-07-14 10:32:49] Porta 9222 ainda não está ocupada. Aguardando... (0s/60s)
+[2025-07-14 10:32:54] Porta 9222 está ocupada. Conectando ao Chrome via porta de depuração...
+[2025-07-14 10:32:54] Rodando em ambiente de desenvolvimento. Base path: C:\VsCode\chromedriver-win64 - backup
+[2025-07-14 10:32:54] Caminho do ChromeDriver a ser usado: 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe'
+[2025-07-14 10:32:54] Verificando existência do ChromeDriver em 'C:\VsCode\chromedriver-win64 - backup\chromedriver.exe': True
+[2025-07-14 10:32:54] Usando ChromeDriver empacotado de: C:\VsCode\chromedriver-win64 - backup\chromedriver.exe
+[2025-07-14 10:32:56] URL carregada: https://tasyweb.spdm.org.br/
+[2025-07-14 10:33:01] Login realizado com sucesso. Aguardando carregamento da página pós-login...
+[2025-07-14 10:33:01] URL alterada. Navegação para página pós-login detectada.
+[2025-07-14 10:33:01] Elemento 'body' presente na nova página. Login provavelmente bem-sucedido.
+[2025-07-14 10:33:01] Aguardando 10 segundos antes de verificar erros na sessão e fechar popups...
+[2025-07-14 10:33:11] Popup de boas-vindas/informativo fechado.
+[2025-07-14 10:33:11] 🟢 Sessão ativa.
+[2025-07-14 10:33:42] 🟢 Sessão ativa.
