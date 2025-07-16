@@ -131,15 +131,35 @@ def porta_esta_ocupada(porta):
     return False
 
 # --- ABRIR ATALHO DO TASY NATIVE ---
+# --- FUNÇÕES DE GERENCIAMENTO DE PROCESSO ---
+# ... (suas outras funções aqui) ...
+
+# --- ABRIR ATALHO DO TASY NATIVE ---
+# --- FUNÇÕES DE GERENCIAMENTO DE PROCESSO ---
+# ... (suas outras funções aqui) ...
+
+# --- ABRIR ATALHO DO TASY NATIVE ---
 def abrir_atalho(atalho_path_main, atalho_path_fallback, tasy_native_install_paths, console):
     """
-    Abre um atalho .lnk do Windows. Tenta o caminho principal, depois o fallback.
-    Se nenhum atalho existente for encontrado, tenta criar um novo.
-    Esta função é específica para Windows.
+    Abre um atalho .lnk do Windows, garantindo que os argumentos de depuração remota
+    e de diretório de dados do usuário (para cache/cookies) sejam aplicados.
     """
     if os.name != 'nt':
-        escrever_log("⚠️ Abrir atalhos .lnk só funciona no Windows. Esta funcionalidade pode não funcionar em outros sistemas.", console)
+        escrever_log("?? Abrir atalhos .lnk só funciona no Windows.", console)
         raise Exception("Funcionalidade de atalho .lnk não suportada neste sistema operacional.")
+
+    # --- NOVO: Define o caminho para o perfil do usuário (cache/cookies) ---
+    if getattr(sys, 'frozen', False):
+        # Se rodando como executável, cria a pasta perto do .exe
+        base_dir = os.path.dirname(sys.executable)
+    else:
+        # Se rodando como script, cria na pasta do script
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    user_data_path = os.path.join(base_dir, "tasy_profile_data")
+    os.makedirs(user_data_path, exist_ok=True) # Garante que a pasta exista
+    escrever_log(f"Usando diretório de perfil (cache/cookies) em: '{user_data_path}'", console)
+    # --- FIM DA NOVA SEÇÃO ---
 
     caminhos_atalho_existentes = [atalho_path_main]
     if atalho_path_fallback and atalho_path_fallback != atalho_path_main:
@@ -163,21 +183,25 @@ def abrir_atalho(atalho_path_main, atalho_path_fallback, tasy_native_install_pat
                 
                 escrever_log(f"Propriedades do atalho: TargetPath='{target_path}', Arguments='{arguments}', WorkingDirectory='{working_directory}'", console)
                 
-                # NOVO: Adiciona o argumento de depuração remota se não estiver presente
-                # Garante que os argumentos originais sejam preservados e o novo adicionado
-                if f"--remote-debugging-port={app_settings['REMOTE_DEBUGGING_PORT']}" not in arguments:
-                    arguments = f"{arguments} --remote-debugging-port={app_settings['REMOTE_DEBUGGING_PORT']}".strip()
-                    escrever_log(f"Adicionado argumento de depuração remota ao atalho existente. Novos argumentos: '{arguments}'", console)
+                # --- MODIFICADO: Adiciona argumentos de depuração e perfil de usuário ---
+                final_args = arguments
+                # Adiciona porta de depuração se não existir
+                if f"--remote-debugging-port={app_settings['REMOTE_DEBUGGING_PORT']}" not in final_args:
+                    final_args += f" --remote-debugging-port={app_settings['REMOTE_DEBUGGING_PORT']}"
+                # Adiciona diretório de dados do usuário se não existir
+                if "--user-data-dir" not in final_args:
+                    final_args += f' --user-data-dir="{user_data_path}"'
+                
+                escrever_log(f"Argumentos finais para execução: '{final_args.strip()}'", console)
+                # --- FIM DA MODIFICAÇÃO ---
 
-                # NOVO: Usa subprocess.Popen com cwd para garantir o diretório de trabalho correto
-                # e loga o comando final e cwd
-                command_to_execute = f'"{target_path}" {arguments}'
+                command_to_execute = f'"{target_path}" {final_args.strip()}'
                 escrever_log(f"Comando final para subprocess.Popen: '{command_to_execute}'", console)
                 escrever_log(f"Diretório de trabalho (cwd) para subprocess.Popen: '{working_directory}'", console)
 
                 subprocess.Popen(command_to_execute, cwd=working_directory)
                 escrever_log(f"Atalho do Tasy Native aberto com sucesso de '{path}'.", console)
-                return # Sai da função se o atalho foi aberto com sucesso
+                return
             except Exception as e:
                 escrever_log(f"Erro ao abrir atalho existente de '{path}': {e}", console)
             finally:
@@ -189,22 +213,13 @@ def abrir_atalho(atalho_path_main, atalho_path_fallback, tasy_native_install_pat
     escrever_log("Nenhum atalho existente funcionou. Tentando criar um novo atalho...", console)
     
     tasy_native_exe_name = "TasyNative.exe"
-    created_shortcut_path = None
-
     for base_path in tasy_native_install_paths:
         exe_path = os.path.join(base_path, tasy_native_exe_name)
         escrever_log(f"Verificando executável do Tasy Native em: '{exe_path}'", console)
         if os.path.exists(exe_path):
             escrever_log(f"Executável do Tasy Native encontrado em '{exe_path}'.", console)
             
-            # Determine where to create the new shortcut
-            if getattr(sys, 'frozen', False):
-                # If running as PyInstaller executable, create in the same directory as the .exe
-                shortcut_dir = os.path.dirname(sys.executable)
-            else:
-                # If running from source, create in the script's directory
-                shortcut_dir = os.path.dirname(os.path.abspath(__file__))
-            
+            shortcut_dir = os.path.dirname(user_data_path) # Usa o mesmo diretório base
             new_shortcut_name = "TasyNative_Auto.lnk"
             created_shortcut_path = os.path.join(shortcut_dir, new_shortcut_name)
 
@@ -214,23 +229,27 @@ def abrir_atalho(atalho_path_main, atalho_path_fallback, tasy_native_install_pat
                 shell = win32com.client.Dispatch("WScript.Shell")
                 shortcut = shell.CreateShortCut(created_shortcut_path)
                 shortcut.TargetPath = exe_path
-                # Inclui o argumento de depuração remota
-                shortcut.Arguments = f"--remote-debugging-port={app_settings['REMOTE_DEBUGGING_PORT']}"
-                shortcut.WindowStyle = 1 # 1 for normal window
-                shortcut.Description = "Atalho automático para Tasy Native com depuração remota"
-                shortcut.WorkingDirectory = os.path.dirname(exe_path) # Define o diretório de trabalho para a pasta do TasyNative
+                
+                # --- MODIFICADO: Inclui ambos os argumentos no novo atalho ---
+                shortcut.Arguments = (
+                    f"--remote-debugging-port={app_settings['REMOTE_DEBUGGING_PORT']} "
+                    f'--user-data-dir="{user_data_path}"'
+                )
+                # --- FIM DA MODIFICAÇÃO ---
+                
+                shortcut.WindowStyle = 1
+                shortcut.Description = "Atalho automático para Tasy Native com depuração e perfil"
+                shortcut.WorkingDirectory = os.path.dirname(exe_path)
                 shortcut.Save()
                 escrever_log(f"Novo atalho criado com sucesso em '{created_shortcut_path}'.", console)
                 
-                # Agora tenta abrir o atalho recém-criado
-                # Loga o comando final e cwd também para o atalho criado
                 command_to_execute = f'"{shortcut.TargetPath}" {shortcut.Arguments}'
                 escrever_log(f"Comando final para subprocess.Popen (novo atalho): '{command_to_execute}'", console)
                 escrever_log(f"Diretório de trabalho (cwd) para subprocess.Popen (novo atalho): '{shortcut.WorkingDirectory}'", console)
 
                 subprocess.Popen(command_to_execute, cwd=shortcut.WorkingDirectory)
                 escrever_log(f"Novo atalho do Tasy Native aberto com sucesso de '{created_shortcut_path}'.", console)
-                return # Sai da função se o novo atalho foi criado e aberto com sucesso
+                return
             except Exception as e:
                 escrever_log(f"Erro ao criar ou abrir o novo atalho em '{created_shortcut_path}': {e}", console)
             finally:
@@ -238,9 +257,7 @@ def abrir_atalho(atalho_path_main, atalho_path_fallback, tasy_native_install_pat
         else:
             escrever_log(f"Executável do Tasy Native não encontrado em '{exe_path}'.", console)
 
-    # Se chegou até aqui, nenhuma opção funcionou
-    raise Exception("Falha ao abrir ou criar atalho do Tasy Native: Nenhuma opção funcionou ou o atalho está corrompido.")
-
+    raise Exception("Falha ao abrir ou criar atalho do Tasy Native: Nenhuma opção funcionou.")
 
 # --- CONECTAR CHROME (com ChromeDriver empacotado) ---
 def setup_driver(port, bundled_chromedriver_relative_path, console):
